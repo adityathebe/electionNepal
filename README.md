@@ -14,7 +14,7 @@ cd electionNepal
 npm install
 ```
 ```
-node server.js
+node index.js
 ```
 
 ## Built With
