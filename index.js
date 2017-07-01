@@ -10,10 +10,6 @@ app.use(cors())
 let url_a = "http://election.ekantipur.com/?pradesh=1&panto=jhapa&location="
 let url_b = "&lng=eng"
 
-var mayor = []
-var party = []
-var votes = []
-
 /* == Get the ID of given location from Province.json == */
 function getLocationID(placeName) {
     for (var i = 0; i < electionData.length; i++) {
@@ -87,6 +83,9 @@ function sendData(url, res) {
         if (error || response.statusCode !== 200) {
             throw new Error("Site DOWN!");
         }   
+
+        let mayor = [];
+        let party = [];
 
         /* ------ Cheerio -------- */
         let $ = cheerio.load(body);
