@@ -15,7 +15,7 @@ function getLocationID(placeName) {
     for (var i = 0; i < electionData.length; i++) {
         for (var j = 0; j < electionData[i].districts.length; j++) {
             for (var k = 0; k < electionData[i].districts[j].Municipalities.length; k++) {
-                var location = electionData[i].districts[j].Municipalities[k];
+                let location = electionData[i].districts[j].Municipalities[k];
                 if(placeName == location.english_name)
                     return location.id;
             }
@@ -29,7 +29,7 @@ function checkLocation(placeID) {
     for (var i = 0; i < electionData.length; i++) {
         for (var j = 0; j < electionData[i].districts.length; j++) {
             for (var k = 0; k < electionData[i].districts[j].Municipalities.length; k++) {
-                var location = electionData[i].districts[j].Municipalities[k];
+                let location = electionData[i].districts[j].Municipalities[k];
                 if(placeID == location.id)
                     return true;
             }
@@ -62,10 +62,10 @@ app.get('/id/:place', (req, res)=> {
 
 /* === Search with Location Name === */
 app.get('/location/:place', (req, res)=> {
-    var placeName = req.params.place.toLowerCase();
-    var code = getLocationID(placeName);
+    let placeName = req.params.place.toLowerCase();
+    let code = getLocationID(placeName);
     if(code == 1000000) {
-        var reply = {
+        let reply = {
             names : ["Invalid Location"],
             votes : []
         }
@@ -85,7 +85,7 @@ function sendData(url, res) {
         }   
 
         let mayor = [];
-        let party = [];
+        let votes = [];
 
         /* ------ Cheerio -------- */
         let $ = cheerio.load(body);
@@ -102,7 +102,7 @@ function sendData(url, res) {
         mayor.join(', ')
         votes.join(', ')
 
-        var reply = {
+        let reply = {
             names : mayor,
             votes : votes
         }
