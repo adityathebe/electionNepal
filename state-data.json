@@ -1,0 +1,4406 @@
+{
+	"1": {
+		"1": {
+			"id": "1",
+			"name": "ताप्लेजुङ / Taplejung",
+			"nepali_name": "ताप्लेजुङ",
+			"english_name": "taplejung",
+			"locations": {
+				"1": {
+					"1": {
+						"id": "1",
+						"english_name": "phungling",
+						"nepali_name": "फुङलिङ"
+					},
+					"2": {
+						"id": "2",
+						"english_name": "aathrai tribeni",
+						"nepali_name": "आठराई त्रिवेणी"
+					},
+					"3": {
+						"id": "3",
+						"english_name": "sidhingwa",
+						"nepali_name": "सिदिङवा"
+					},
+					"4": {
+						"id": "4",
+						"english_name": "faktanglung",
+						"nepali_name": "फक्ताङलुङ"
+					},
+					"5": {
+						"id": "5",
+						"english_name": "mikhwakhola",
+						"nepali_name": "मिक्वाखोला"
+					},
+					"6": {
+						"id": "6",
+						"english_name": "meringden",
+						"nepali_name": "मेरिङदेन"
+					},
+					"7": {
+						"id": "7",
+						"english_name": "maiwa khola",
+						"nepali_name": "मैवा खोला"
+					},
+					"8": {
+						"id": "8",
+						"english_name": "yangwarak",
+						"nepali_name": "याङवरक"
+					},
+					"9": {
+						"id": "9",
+						"english_name": "sirijanga",
+						"nepali_name": "सिरिजंगा"
+					}
+				}
+			}
+		},
+		"2": {
+			"id": "2",
+			"name": "पाँचथर / Panchthar",
+			"nepali_name": "पाँचथर",
+			"english_name": "panchthar",
+			"locations": {
+				"2": {
+					"10": {
+						"id": "10",
+						"english_name": "fidim",
+						"nepali_name": "फिदिम"
+					},
+					"11": {
+						"id": "11",
+						"english_name": "falelung",
+						"nepali_name": "फालेलुंग"
+					},
+					"12": {
+						"id": "12",
+						"english_name": "falgunand",
+						"nepali_name": "फाल्गुनन्द"
+					},
+					"13": {
+						"id": "13",
+						"english_name": "hilihang",
+						"nepali_name": "हिलिहाङ"
+					},
+					"14": {
+						"id": "14",
+						"english_name": "kummayak",
+						"nepali_name": "कुम्मायक"
+					},
+					"15": {
+						"id": "15",
+						"english_name": "miklajung",
+						"nepali_name": "मिक्लाजुङ"
+					},
+					"16": {
+						"id": "16",
+						"english_name": "tumbewa",
+						"nepali_name": "तुम्बेवा"
+					},
+					"17": {
+						"id": "17",
+						"english_name": "yangwarak",
+						"nepali_name": "याङवरक"
+					}
+				}
+			}
+		},
+		"3": {
+			"id": "3",
+			"name": "ईलाम / Illam",
+			"nepali_name": "ईलाम",
+			"english_name": "illam",
+			"locations": {
+				"3": {
+					"18": {
+						"id": "18",
+						"english_name": "deumai",
+						"nepali_name": "देउमाई"
+					},
+					"19": {
+						"id": "19",
+						"english_name": "ilam",
+						"nepali_name": "इलाम"
+					},
+					"20": {
+						"id": "20",
+						"english_name": "mai",
+						"nepali_name": "माई"
+					},
+					"21": {
+						"id": "21",
+						"english_name": "suryodaya",
+						"nepali_name": "सूर्योदय"
+					},
+					"22": {
+						"id": "22",
+						"english_name": "phakphokthum",
+						"nepali_name": "फाकफोकथुम"
+					},
+					"23": {
+						"id": "23",
+						"english_name": "chulachuli",
+						"nepali_name": "चुलाचुली"
+					},
+					"24": {
+						"id": "24",
+						"english_name": "maijogmai",
+						"nepali_name": "माईजोगमाई"
+					},
+					"25": {
+						"id": "25",
+						"english_name": "mangsebung",
+						"nepali_name": "माङसेबुङ"
+					},
+					"26": {
+						"id": "26",
+						"english_name": "rong",
+						"nepali_name": "रोङ"
+					},
+					"27": {
+						"id": "27",
+						"english_name": "sandakpur",
+						"nepali_name": "सन्दकपुर"
+					}
+				}
+			}
+		},
+		"4": {
+			"id": "4",
+			"name": "झापा / Jhapa",
+			"nepali_name": "झापा",
+			"english_name": "jhapa",
+			"locations": {
+				"4": {
+					"28": {
+						"id": "28",
+						"english_name": "mechi",
+						"nepali_name": "मेची"
+					},
+					"30": {
+						"id": "30",
+						"english_name": "damak",
+						"nepali_name": "दमक"
+					},
+					"31": {
+						"id": "31",
+						"english_name": "kankai",
+						"nepali_name": "कन्काई"
+					},
+					"32": {
+						"id": "32",
+						"english_name": "bhadrapur",
+						"nepali_name": "भद्रपुर"
+					},
+					"33": {
+						"id": "33",
+						"english_name": "arjundhara",
+						"nepali_name": "अर्जुनधारा"
+					},
+					"34": {
+						"id": "34",
+						"english_name": "gauradaha",
+						"nepali_name": "गौरादह"
+					},
+					"35": {
+						"id": "35",
+						"english_name": "shivasatakshi",
+						"nepali_name": "शिवशताक्षी"
+					},
+					"36": {
+						"id": "36",
+						"english_name": "birtamod",
+						"nepali_name": "विर्तामोड"
+					},
+					"37": {
+						"id": "37",
+						"english_name": "kamal",
+						"nepali_name": "कमल"
+					},
+					"38": {
+						"id": "38",
+						"english_name": "gangriganj",
+						"nepali_name": "गौरीगञ्ज"
+					},
+					"39": {
+						"id": "39",
+						"english_name": "barhadshi",
+						"nepali_name": "बाह्रदशी"
+					},
+					"40": {
+						"id": "40",
+						"english_name": "jhapa",
+						"nepali_name": "झापा"
+					},
+					"41": {
+						"id": "41",
+						"english_name": "budhashanti",
+						"nepali_name": "बुद्धशान्ति"
+					},
+					"42": {
+						"id": "42",
+						"english_name": "haldiwari",
+						"nepali_name": "हल्दीवारी"
+					},
+					"43": {
+						"id": "43",
+						"english_name": "kachankawal",
+						"nepali_name": "कचनकवल"
+					}
+				}
+			}
+		},
+		"5": {
+			"id": "5",
+			"name": "मोरंग / Morang",
+			"nepali_name": "मोरंग",
+			"english_name": "morang",
+			"locations": {
+				"5": {
+					"54": {
+						"id": "54",
+						"english_name": "biratnagar",
+						"nepali_name": "विराटनगर"
+					},
+					"55": {
+						"id": "55",
+						"english_name": "belbari",
+						"nepali_name": "बेलबारी"
+					},
+					"56": {
+						"id": "56",
+						"english_name": "letang",
+						"nepali_name": "लेटाङ"
+					},
+					"57": {
+						"id": "57",
+						"english_name": "pathari sanischare",
+						"nepali_name": "पथरी शनिश्चरे"
+					},
+					"58": {
+						"id": "58",
+						"english_name": "rangheli",
+						"nepali_name": "रंगेली"
+					},
+					"59": {
+						"id": "59",
+						"english_name": "rathuwamai",
+						"nepali_name": "रतुवामाई"
+					},
+					"60": {
+						"id": "60",
+						"english_name": "sunbarsi",
+						"nepali_name": "सुनवर्षि"
+					},
+					"61": {
+						"id": "61",
+						"english_name": "urlabari",
+						"nepali_name": "उर्लावारी"
+					},
+					"62": {
+						"id": "62",
+						"english_name": "sundhar haircha",
+						"nepali_name": "सुन्दर हैरचा"
+					},
+					"63": {
+						"id": "63",
+						"english_name": "bhudiganga",
+						"nepali_name": "बुढीगंगा"
+					},
+					"64": {
+						"id": "64",
+						"english_name": "dhanpalthan",
+						"nepali_name": "धनपालथान"
+					},
+					"65": {
+						"id": "65",
+						"english_name": "gramthan",
+						"nepali_name": "ग्रामथान"
+					},
+					"66": {
+						"id": "66",
+						"english_name": "jahada",
+						"nepali_name": "जहदा"
+					},
+					"67": {
+						"id": "67",
+						"english_name": "khanephokhari",
+						"nepali_name": "कानेपोखरी"
+					},
+					"68": {
+						"id": "68",
+						"english_name": "katahari",
+						"nepali_name": "कटहरी"
+					},
+					"69": {
+						"id": "69",
+						"english_name": "kerabari",
+						"nepali_name": "केराबारी"
+					},
+					"70": {
+						"id": "70",
+						"english_name": "miklajung",
+						"nepali_name": "मिक्लाजुङ"
+					}
+				}
+			}
+		},
+		"6": {
+			"id": "6",
+			"name": "सुनसरी / Sunsari",
+			"nepali_name": "सुनसरी",
+			"english_name": "sunsari",
+			"locations": {
+				"6": {
+					"71": {
+						"id": "71",
+						"english_name": "itahari",
+						"nepali_name": "इटहरी"
+					},
+					"72": {
+						"id": "72",
+						"english_name": "dharan",
+						"nepali_name": "धरान"
+					},
+					"73": {
+						"id": "73",
+						"english_name": "inaruwa",
+						"nepali_name": "इनरुवा"
+					},
+					"74": {
+						"id": "74",
+						"english_name": "dhuhabi",
+						"nepali_name": "दुहवी"
+					},
+					"75": {
+						"id": "75",
+						"english_name": "baraha",
+						"nepali_name": "बराह"
+					},
+					"76": {
+						"id": "76",
+						"english_name": "ramdhuni",
+						"nepali_name": "रामधुनी"
+					},
+					"77": {
+						"id": "77",
+						"english_name": "koshi",
+						"nepali_name": "कोशी"
+					},
+					"78": {
+						"id": "78",
+						"english_name": "gadhi",
+						"nepali_name": "गढी"
+					},
+					"79": {
+						"id": "79",
+						"english_name": "dewangunj",
+						"nepali_name": "देवानगन्ज"
+					},
+					"80": {
+						"id": "80",
+						"english_name": "barju",
+						"nepali_name": "बर्जु"
+					},
+					"81": {
+						"id": "81",
+						"english_name": "bhokraha",
+						"nepali_name": "भोक्राहा"
+					},
+					"82": {
+						"id": "82",
+						"english_name": "harinagar",
+						"nepali_name": "हरिनगरा"
+					}
+				}
+			}
+		},
+		"7": {
+			"id": "7",
+			"name": "धनकुटा / Dhankuta",
+			"nepali_name": "धनकुटा",
+			"english_name": "dhankuta",
+			"locations": {
+				"7": {
+					"83": {
+						"id": "83",
+						"english_name": "dhankuta",
+						"nepali_name": "धनकुटा"
+					},
+					"84": {
+						"id": "84",
+						"english_name": "pakhibash",
+						"nepali_name": "पाख्रिबास"
+					},
+					"85": {
+						"id": "85",
+						"english_name": "mahalaxmi",
+						"nepali_name": "महालक्ष्मी"
+					},
+					"86": {
+						"id": "86",
+						"english_name": "chaubise",
+						"nepali_name": "चौबिसे"
+					},
+					"87": {
+						"id": "87",
+						"english_name": "chatar jorpati",
+						"nepali_name": "छथर जोरपाटी"
+					},
+					"88": {
+						"id": "88",
+						"english_name": "sagurigadhi",
+						"nepali_name": "सागुरीगढी"
+					},
+					"89": {
+						"id": "89",
+						"english_name": "khalsa chintang sahidbhumi",
+						"nepali_name": "खाल्सा छिन्ताङ सहिदभूमि"
+					}
+				}
+			}
+		},
+		"8": {
+			"id": "8",
+			"name": "संखुवासभा / Sankhuwasabha",
+			"nepali_name": "संखुवासभा",
+			"english_name": "sankhuwasabha",
+			"locations": {
+				"8": {
+					"44": {
+						"id": "44",
+						"english_name": "chainpur",
+						"nepali_name": "चैनपुर"
+					},
+					"45": {
+						"id": "45",
+						"english_name": "dharmadevi",
+						"nepali_name": "धर्मादेवी"
+					},
+					"46": {
+						"id": "46",
+						"english_name": "khandbari",
+						"nepali_name": "खाँदबारी"
+					},
+					"47": {
+						"id": "47",
+						"english_name": "madhi",
+						"nepali_name": "मादी"
+					},
+					"48": {
+						"id": "48",
+						"english_name": "panchkhapan",
+						"nepali_name": "पाँचखपन"
+					},
+					"49": {
+						"id": "49",
+						"english_name": "bhotkhola",
+						"nepali_name": "भोटखोला"
+					},
+					"50": {
+						"id": "50",
+						"english_name": "chichila",
+						"nepali_name": "चिचिला"
+					},
+					"51": {
+						"id": "51",
+						"english_name": "makalu",
+						"nepali_name": "मकालु"
+					},
+					"52": {
+						"id": "52",
+						"english_name": "shavapokhari",
+						"nepali_name": "सभापोखरी"
+					},
+					"53": {
+						"id": "53",
+						"english_name": "silichong",
+						"nepali_name": "सिलीचोङ"
+					}
+				}
+			}
+		},
+		"9": {
+			"id": "9",
+			"name": "भोजपुर / Bhojpur",
+			"nepali_name": "भोजपुर",
+			"english_name": "bhojpur",
+			"locations": {
+				"9": {
+					"90": {
+						"id": "90",
+						"english_name": "saḍananda",
+						"nepali_name": "षडानन्द"
+					},
+					"91": {
+						"id": "91",
+						"english_name": "bhojpur",
+						"nepali_name": "भोजपुर"
+					},
+					"92": {
+						"id": "92",
+						"english_name": "arun",
+						"nepali_name": "अरुण"
+					},
+					"93": {
+						"id": "93",
+						"english_name": "hatuwagdi",
+						"nepali_name": "हतुवागढी"
+					},
+					"94": {
+						"id": "94",
+						"english_name": "pawadhuma",
+						"nepali_name": "पौवादुम्मा"
+					},
+					"95": {
+						"id": "95",
+						"english_name": "ramprasad rai",
+						"nepali_name": "रामप्रसाद राई"
+					},
+					"96": {
+						"id": "96",
+						"english_name": "salpasilicho",
+						"nepali_name": "साल्पासिलिछो"
+					},
+					"97": {
+						"id": "97",
+						"english_name": "tyamkemeyum",
+						"nepali_name": "ट्याम्केमैयुम"
+					},
+					"98": {
+						"id": "98",
+						"english_name": "aamchowk",
+						"nepali_name": "आमचोक"
+					}
+				}
+			}
+		},
+		"10": {
+			"id": "10",
+			"name": "तेहथुम / Terhathum",
+			"nepali_name": "तेहथुम",
+			"english_name": "terhathum",
+			"locations": {
+				"10": {
+					"99": {
+						"id": "99",
+						"english_name": "myanglung",
+						"nepali_name": "म्याङलुङ"
+					},
+					"100": {
+						"id": "100",
+						"english_name": "laliguras",
+						"nepali_name": "लालीगुराँस"
+					},
+					"101": {
+						"id": "101",
+						"english_name": "aathrai",
+						"nepali_name": "आठराई"
+					},
+					"102": {
+						"id": "102",
+						"english_name": "chathar",
+						"nepali_name": "छथर"
+					},
+					"103": {
+						"id": "103",
+						"english_name": "phedhap",
+						"nepali_name": "फेदाप"
+					},
+					"104": {
+						"id": "104",
+						"english_name": "menchayayem",
+						"nepali_name": "मेन्छयायेम"
+					}
+				}
+			}
+		},
+		"11": {
+			"id": "11",
+			"name": "ओखलढुंगा / Okhaldhunga",
+			"nepali_name": "ओखलढुंगा",
+			"english_name": "okhaldhunga",
+			"locations": {
+				"11": {
+					"105": {
+						"id": "105",
+						"english_name": "sidhicharan",
+						"nepali_name": "सिद्दिचरण"
+					},
+					"106": {
+						"id": "106",
+						"english_name": "khijidhemba",
+						"nepali_name": "खिजिदेम्बा"
+					},
+					"107": {
+						"id": "107",
+						"english_name": "champadevi",
+						"nepali_name": "चम्पादेवी"
+					},
+					"108": {
+						"id": "108",
+						"english_name": "chisangkhudi",
+						"nepali_name": "चिशंखुगढी"
+					},
+					"109": {
+						"id": "109",
+						"english_name": "manebhangzyang",
+						"nepali_name": "मानेभञ्याङ"
+					},
+					"110": {
+						"id": "110",
+						"english_name": "molung",
+						"nepali_name": "मोलुङ"
+					},
+					"111": {
+						"id": "111",
+						"english_name": "likhu",
+						"nepali_name": "लिखु"
+					},
+					"112": {
+						"id": "112",
+						"english_name": "sunkoshi",
+						"nepali_name": "सुनकोशी"
+					}
+				}
+			}
+		},
+		"12": {
+			"id": "12",
+			"name": "खोटाङ / Khotang",
+			"nepali_name": "खोटाङ",
+			"english_name": "khotang",
+			"locations": {
+				"12": {
+					"113": {
+						"id": "113",
+						"english_name": "rupakoth majuwagdi",
+						"nepali_name": "रुपाकोट मजुवागढी"
+					},
+					"114": {
+						"id": "114",
+						"english_name": "haleshi thuwachung",
+						"nepali_name": "हलेसी तुवाचुङ"
+					},
+					"115": {
+						"id": "115",
+						"english_name": "aeselukharka",
+						"nepali_name": "ऐसेलुखर्क"
+					},
+					"116": {
+						"id": "116",
+						"english_name": "lamidanda",
+						"nepali_name": "लामीडाँडा"
+					},
+					"117": {
+						"id": "117",
+						"english_name": "jhantedhunga",
+						"nepali_name": "जन्तेढुंगा"
+					},
+					"118": {
+						"id": "118",
+						"english_name": "khotehang",
+						"nepali_name": "खोटेहाङ"
+					},
+					"119": {
+						"id": "119",
+						"english_name": "kepilasagdi",
+						"nepali_name": "केपिलासगढी"
+					},
+					"120": {
+						"id": "120",
+						"english_name": "diprung",
+						"nepali_name": "दिप्रुङ"
+					},
+					"121": {
+						"id": "121",
+						"english_name": "sakela",
+						"nepali_name": "साकेला"
+					},
+					"122": {
+						"id": "122",
+						"english_name": "barahapokhari",
+						"nepali_name": "वराहपोखरी"
+					}
+				}
+			}
+		},
+		"13": {
+			"id": "13",
+			"name": "सोलुखुम्बु / Solukhumbu",
+			"nepali_name": "सोलुखुम्बु",
+			"english_name": "solukhumbu",
+			"locations": {
+				"13": {
+					"123": {
+						"id": "123",
+						"english_name": "soludhudkund",
+						"nepali_name": "सोलुदुधकुण्ड"
+					},
+					"124": {
+						"id": "124",
+						"english_name": "dhudkoshi",
+						"nepali_name": "दुधकोशी"
+					},
+					"125": {
+						"id": "125",
+						"english_name": "khumbu pasanglhamu",
+						"nepali_name": "खुम्बु पासाङल्हमु"
+					},
+					"126": {
+						"id": "126",
+						"english_name": "dhudkousika",
+						"nepali_name": "दुधकौशिका"
+					},
+					"127": {
+						"id": "127",
+						"english_name": "nechasalyan",
+						"nepali_name": "नेचासल्यान"
+					},
+					"128": {
+						"id": "128",
+						"english_name": "mahakulung",
+						"nepali_name": "माहाकुलुङ"
+					},
+					"129": {
+						"id": "129",
+						"english_name": "likhu pike",
+						"nepali_name": "लिखु पिके"
+					},
+					"130": {
+						"id": "130",
+						"english_name": "sotang",
+						"nepali_name": "सोताङ"
+					}
+				}
+			}
+		},
+		"14": {
+			"id": "14",
+			"name": "उदयपुर / Udayapur",
+			"nepali_name": "उदयपुर",
+			"english_name": "udayapur",
+			"locations": {
+				"14": {
+					"131": {
+						"id": "131",
+						"english_name": "katari",
+						"nepali_name": "कटारी"
+					},
+					"132": {
+						"id": "132",
+						"english_name": "chaudhandigadhi",
+						"nepali_name": "चौदण्डीगढी"
+					},
+					"133": {
+						"id": "133",
+						"english_name": "triyuga",
+						"nepali_name": "त्रियुगा"
+					},
+					"134": {
+						"id": "134",
+						"english_name": "belaka",
+						"nepali_name": "बेलका"
+					},
+					"135": {
+						"id": "135",
+						"english_name": "udyapurghadi",
+						"nepali_name": "उदयपुरगढी"
+					},
+					"136": {
+						"id": "136",
+						"english_name": "tapli",
+						"nepali_name": "ताप्ली"
+					},
+					"137": {
+						"id": "137",
+						"english_name": "rautamai",
+						"nepali_name": "रौतामाई"
+					},
+					"138": {
+						"id": "138",
+						"english_name": "sunkoshi",
+						"nepali_name": "सुनकोशी"
+					}
+				}
+			}
+		}
+	},
+	"2": {
+		"15": {
+			"id": "15",
+			"name": "सप्तरी / Saptari",
+			"nepali_name": "सप्तरी",
+			"english_name": "saptari",
+			"locations": {
+				"15": {
+					"139": {
+						"id": "139",
+						"english_name": "patho",
+						"nepali_name": "पातो"
+					},
+					"140": {
+						"id": "140",
+						"english_name": "barshaen",
+						"nepali_name": "बरसाइन"
+					},
+					"141": {
+						"id": "141",
+						"english_name": "rajbiraj",
+						"nepali_name": "राजविराज"
+					},
+					"142": {
+						"id": "142",
+						"english_name": "sumbhunath",
+						"nepali_name": "शम्भुनाथ"
+					},
+					"143": {
+						"id": "143",
+						"english_name": "saptakoshi kanchanrup",
+						"nepali_name": "सप्तकोशी कञ्चनरुप"
+					},
+					"144": {
+						"id": "144",
+						"english_name": "hanumannagar yogini mai",
+						"nepali_name": "हनुमाननगर योगिनि माई"
+					},
+					"145": {
+						"id": "145",
+						"english_name": "khadhak",
+						"nepali_name": "खडक"
+					},
+					"146": {
+						"id": "146",
+						"english_name": "chinnamastha",
+						"nepali_name": "छिन्नमस्ता"
+					},
+					"147": {
+						"id": "147",
+						"english_name": "thopa",
+						"nepali_name": "तोपा"
+					},
+					"148": {
+						"id": "148",
+						"english_name": "mohali",
+						"nepali_name": "मोहली"
+					},
+					"149": {
+						"id": "149",
+						"english_name": "belhi chapena",
+						"nepali_name": "बेल्ही चपेना"
+					},
+					"150": {
+						"id": "150",
+						"english_name": "sumanga",
+						"nepali_name": "सुमङ्ग"
+					}
+				}
+			}
+		},
+		"16": {
+			"id": "16",
+			"name": "सिराहा / Siraha",
+			"nepali_name": "सिराहा",
+			"english_name": "siraha",
+			"locations": {
+				"16": {
+					"151": {
+						"id": "151",
+						"english_name": "mirchya",
+						"nepali_name": "मिर्चैया"
+					},
+					"152": {
+						"id": "152",
+						"english_name": "lahan",
+						"nepali_name": "लहान"
+					},
+					"153": {
+						"id": "153",
+						"english_name": "siraha",
+						"nepali_name": "सिराहा"
+					},
+					"154": {
+						"id": "154",
+						"english_name": "sukhipur",
+						"nepali_name": "सुखीपुर"
+					},
+					"155": {
+						"id": "155",
+						"english_name": "gholbazar",
+						"nepali_name": "गोलबजार"
+					},
+					"156": {
+						"id": "156",
+						"english_name": "dhangadimai",
+						"nepali_name": "धनगढीमाई"
+					},
+					"157": {
+						"id": "157",
+						"english_name": "bhagwanpur",
+						"nepali_name": "भगवानपुर"
+					},
+					"158": {
+						"id": "158",
+						"english_name": "maheshpur pathari",
+						"nepali_name": "महेशपुर पतारी"
+					},
+					"159": {
+						"id": "159",
+						"english_name": "bhishnupur p.m",
+						"nepali_name": "विष्णुपुर प्र.म."
+					},
+					"160": {
+						"id": "160",
+						"english_name": "aaurahi",
+						"nepali_name": "औरही"
+					},
+					"161": {
+						"id": "161",
+						"english_name": "karjanha",
+						"nepali_name": "कर्जन्हा"
+					},
+					"162": {
+						"id": "162",
+						"english_name": "kalyanpur jabdi",
+						"nepali_name": "कल्याणपुर जब्दी"
+					}
+				}
+			}
+		},
+		"17": {
+			"id": "17",
+			"name": "धनुषा / Dhanusa",
+			"nepali_name": "धनुषा",
+			"english_name": "dhanusa",
+			"locations": {
+				"17": {
+					"163": {
+						"id": "163",
+						"english_name": "janakpur",
+						"nepali_name": "जनकपुर"
+					},
+					"164": {
+						"id": "164",
+						"english_name": "shrireshswarnath",
+						"nepali_name": "क्षिरेश्वरनाथ"
+					},
+					"165": {
+						"id": "165",
+						"english_name": "ganeshman charnath",
+						"nepali_name": "गणेशमान चारनाथ"
+					},
+					"166": {
+						"id": "166",
+						"english_name": "dhanusadham",
+						"nepali_name": "धनुषाधाम"
+					},
+					"167": {
+						"id": "167",
+						"english_name": "nagrain",
+						"nepali_name": "नगराइन"
+					},
+					"168": {
+						"id": "168",
+						"english_name": "mithila",
+						"nepali_name": "मिथिला"
+					},
+					"169": {
+						"id": "169",
+						"english_name": "yogibaba",
+						"nepali_name": "योगीबाबा"
+					},
+					"170": {
+						"id": "170",
+						"english_name": "sahidnagar",
+						"nepali_name": "शहीदनगर"
+					},
+					"171": {
+						"id": "171",
+						"english_name": "saptakrishi",
+						"nepali_name": "सप्तऋषि"
+					},
+					"172": {
+						"id": "172",
+						"english_name": "kamla sidhidhakshri",
+						"nepali_name": "कमला सिद्दीदात्री"
+					},
+					"173": {
+						"id": "173",
+						"english_name": "mithila bihari",
+						"nepali_name": "मिथिला  बिहारी"
+					},
+					"174": {
+						"id": "174",
+						"english_name": "hangsapur",
+						"nepali_name": "हंसपुर"
+					},
+					"175": {
+						"id": "175",
+						"english_name": "jamuni",
+						"nepali_name": "जमुनी"
+					}
+				}
+			}
+		},
+		"18": {
+			"id": "18",
+			"name": "महोत्तरी / Mahottari",
+			"nepali_name": "महोत्तरी",
+			"english_name": "mahottari",
+			"locations": {
+				"18": {
+					"176": {
+						"id": "176",
+						"english_name": "gaushala",
+						"nepali_name": "गौशाला"
+					},
+					"177": {
+						"id": "177",
+						"english_name": "jaleshwor",
+						"nepali_name": "जलेश्वर"
+					},
+					"178": {
+						"id": "178",
+						"english_name": "badhibash",
+						"nepali_name": "बर्दिबास"
+					},
+					"179": {
+						"id": "179",
+						"english_name": "ekdara",
+						"nepali_name": "एकडारा"
+					},
+					"180": {
+						"id": "180",
+						"english_name": "aaurahi",
+						"nepali_name": "औरही"
+					},
+					"181": {
+						"id": "181",
+						"english_name": "pipra",
+						"nepali_name": "पिपरा"
+					},
+					"182": {
+						"id": "182",
+						"english_name": "balwa",
+						"nepali_name": "बलवा"
+					},
+					"183": {
+						"id": "183",
+						"english_name": "bhangaha",
+						"nepali_name": "भँगाहा"
+					},
+					"184": {
+						"id": "184",
+						"english_name": "mathihani",
+						"nepali_name": "मटिहानी"
+					},
+					"185": {
+						"id": "185",
+						"english_name": "manra",
+						"nepali_name": "मनरा"
+					},
+					"186": {
+						"id": "186",
+						"english_name": "ramgopalpur",
+						"nepali_name": "रामगोपालपुर"
+					},
+					"187": {
+						"id": "187",
+						"english_name": "loharpatti",
+						"nepali_name": "लोहरपट्टी"
+					},
+					"188": {
+						"id": "188",
+						"english_name": "samshi",
+						"nepali_name": "सम्सी"
+					},
+					"189": {
+						"id": "189",
+						"english_name": "sonma",
+						"nepali_name": "सोनमा"
+					}
+				}
+			}
+		},
+		"19": {
+			"id": "19",
+			"name": "सर्लाही / Sarlahi",
+			"nepali_name": "सर्लाही",
+			"english_name": "sarlahi",
+			"locations": {
+				"19": {
+					"190": {
+						"id": "190",
+						"english_name": "brahatwa",
+						"nepali_name": "बरहथवा"
+					},
+					"191": {
+						"id": "191",
+						"english_name": "balra",
+						"nepali_name": "बलरा"
+					},
+					"192": {
+						"id": "192",
+						"english_name": "malangwa",
+						"nepali_name": "मलंगवा"
+					},
+					"193": {
+						"id": "193",
+						"english_name": "lalbandhi",
+						"nepali_name": "लालबन्दी"
+					},
+					"194": {
+						"id": "194",
+						"english_name": "shrinagar sagarnath",
+						"nepali_name": "श्रीनगर सागरनाथ"
+					},
+					"195": {
+						"id": "195",
+						"english_name": "haripur",
+						"nepali_name": "हरिपुर"
+					},
+					"196": {
+						"id": "196",
+						"english_name": "haripurwa",
+						"nepali_name": "हरिपुर्वा"
+					},
+					"197": {
+						"id": "197",
+						"english_name": "hariwan",
+						"nepali_name": "हरिवन"
+					},
+					"198": {
+						"id": "198",
+						"english_name": "karmaya",
+						"nepali_name": "कर्मैया"
+					},
+					"199": {
+						"id": "199",
+						"english_name": "kawilashi",
+						"nepali_name": "कविलासी"
+					},
+					"200": {
+						"id": "200",
+						"english_name": "godaita",
+						"nepali_name": "गोडैता"
+					},
+					"201": {
+						"id": "201",
+						"english_name": "chandranagar",
+						"nepali_name": "चन्द्रनगर"
+					},
+					"202": {
+						"id": "202",
+						"english_name": "dhankail parisham",
+						"nepali_name": "धनकौल पश्चिम"
+					},
+					"203": {
+						"id": "203",
+						"english_name": "belhi",
+						"nepali_name": "बेल्ही"
+					},
+					"204": {
+						"id": "204",
+						"english_name": "ramnagar bahuarwa",
+						"nepali_name": "रामनगर बहुअर्वा"
+					},
+					"205": {
+						"id": "205",
+						"english_name": "bishnu",
+						"nepali_name": "विष्णु"
+					}
+				}
+			}
+		},
+		"32": {
+			"id": "32",
+			"name": "रौतहट / Rauthat",
+			"nepali_name": "रौतहट",
+			"english_name": "rauthat",
+			"locations": {
+				"32": {
+					"316": {
+						"id": "316",
+						"english_name": "garuda",
+						"nepali_name": "गरुडा"
+					},
+					"317": {
+						"id": "317",
+						"english_name": "gaur",
+						"nepali_name": "गौर"
+					},
+					"318": {
+						"id": "318",
+						"english_name": "chandrapur",
+						"nepali_name": "चन्द्रपुर"
+					},
+					"319": {
+						"id": "319",
+						"english_name": "isanatha",
+						"nepali_name": "ईशनाथ"
+					},
+					"320": {
+						"id": "320",
+						"english_name": "kaṭahariya",
+						"nepali_name": "कटहरिया"
+					},
+					"321": {
+						"id": "321",
+						"english_name": "gajara",
+						"nepali_name": "गजरा"
+					},
+					"322": {
+						"id": "322",
+						"english_name": "gadimai",
+						"nepali_name": "गढीमाई"
+					},
+					"323": {
+						"id": "323",
+						"english_name": "paroha",
+						"nepali_name": "परोहा"
+					},
+					"324": {
+						"id": "324",
+						"english_name": "bijayapur",
+						"nepali_name": "बिजयपुर"
+					},
+					"325": {
+						"id": "325",
+						"english_name": "baidimai",
+						"nepali_name": "बैधीमार्इ"
+					},
+					"326": {
+						"id": "326",
+						"english_name": "bhagwati",
+						"nepali_name": "भगवती"
+					},
+					"327": {
+						"id": "327",
+						"english_name": "vinak",
+						"nepali_name": "भीनक"
+					},
+					"328": {
+						"id": "328",
+						"english_name": "maulapur",
+						"nepali_name": "मौलापुर"
+					},
+					"329": {
+						"id": "329",
+						"english_name": "rajpur",
+						"nepali_name": "राजपुर"
+					},
+					"330": {
+						"id": "330",
+						"english_name": "br̥ndavana",
+						"nepali_name": "बृन्दावन"
+					}
+				}
+			}
+		},
+		"33": {
+			"id": "33",
+			"name": "वारा / Bara",
+			"nepali_name": "वारा",
+			"english_name": "bara",
+			"locations": {
+				"33": {
+					"331": {
+						"id": "331",
+						"english_name": "simra jitpur",
+						"nepali_name": "सिमरा जीतपुर"
+					},
+					"332": {
+						"id": "332",
+						"english_name": "kalaya",
+						"nepali_name": "कलैया"
+					},
+					"333": {
+						"id": "333",
+						"english_name": "kolhawi",
+						"nepali_name": "कोल्हवी"
+					},
+					"334": {
+						"id": "334",
+						"english_name": "nijgadh",
+						"nepali_name": "निजगढ"
+					},
+					"335": {
+						"id": "335",
+						"english_name": "mahagadhimai",
+						"nepali_name": "महागढीमाई"
+					},
+					"336": {
+						"id": "336",
+						"english_name": "simraunagaḍha",
+						"nepali_name": "सिम्रौनगढ"
+					},
+					"337": {
+						"id": "337",
+						"english_name": "kotwal",
+						"nepali_name": "कोटवाल"
+					},
+					"338": {
+						"id": "338",
+						"english_name": "devtal",
+						"nepali_name": "देवताल"
+					},
+					"339": {
+						"id": "339",
+						"english_name": "parwanipur",
+						"nepali_name": "परवानीपुर"
+					},
+					"340": {
+						"id": "340",
+						"english_name": "prasauni",
+						"nepali_name": "प्रसौनी"
+					},
+					"341": {
+						"id": "341",
+						"english_name": "pheta",
+						"nepali_name": "फेटा"
+					},
+					"342": {
+						"id": "342",
+						"english_name": "baragadhi",
+						"nepali_name": "बारागढी"
+					},
+					"343": {
+						"id": "343",
+						"english_name": "pacarauṭa satamauja",
+						"nepali_name": "पचरौटा सतमौजा"
+					}
+				}
+			}
+		},
+		"34": {
+			"id": "34",
+			"name": "पर्सा / Parsa",
+			"nepali_name": "पर्सा",
+			"english_name": "parsa",
+			"locations": {
+				"34": {
+					"344": {
+						"id": "344",
+						"english_name": "birgunj",
+						"nepali_name": "बिरगंज"
+					},
+					"345": {
+						"id": "345",
+						"english_name": "pokhariya",
+						"nepali_name": "पोखरिया"
+					},
+					"346": {
+						"id": "346",
+						"english_name": "jagnathpur",
+						"nepali_name": "जगनाथपुर"
+					},
+					"347": {
+						"id": "347",
+						"english_name": "dhobini",
+						"nepali_name": "धोबीनी"
+					},
+					"348": {
+						"id": "348",
+						"english_name": "pakaha mainapur",
+						"nepali_name": "पकाहा मैनपुर"
+					},
+					"349": {
+						"id": "349",
+						"english_name": "paṭerva sugauli",
+						"nepali_name": "पटेर्वा सुगौली"
+					},
+					"350": {
+						"id": "350",
+						"english_name": "belava prasaunī",
+						"nepali_name": "बेलवा प्रसौनी"
+					},
+					"351": {
+						"id": "351",
+						"english_name": "visramapura",
+						"nepali_name": "विश्रामपुर"
+					},
+					"352": {
+						"id": "352",
+						"english_name": "sakhuva prasauni",
+						"nepali_name": "सखुवा प्रसौनी"
+					},
+					"353": {
+						"id": "353",
+						"english_name": "suvarṇapura",
+						"nepali_name": "सुवर्णपुर"
+					},
+					"354": {
+						"id": "354",
+						"english_name": "harpur",
+						"nepali_name": "हरपुर"
+					}
+				}
+			}
+		}
+	},
+	"3": {
+		"20": {
+			"id": "20",
+			"name": "सिन्धुली / Sindhuli",
+			"nepali_name": "सिन्धुली",
+			"english_name": "sindhuli",
+			"locations": {
+				"20": {
+					"206": {
+						"id": "206",
+						"english_name": "dudhauli",
+						"nepali_name": "दुधौली"
+					},
+					"207": {
+						"id": "207",
+						"english_name": "kamlamai",
+						"nepali_name": "कमलामाई"
+					},
+					"208": {
+						"id": "208",
+						"english_name": "tinpatan",
+						"nepali_name": "तिनपाटन"
+					},
+					"209": {
+						"id": "209",
+						"english_name": "phikkal",
+						"nepali_name": "फिक्कल"
+					},
+					"210": {
+						"id": "210",
+						"english_name": "hariharpurgadhi",
+						"nepali_name": "हरिहरपुरगढी"
+					},
+					"211": {
+						"id": "211",
+						"english_name": "ghyanglekh",
+						"nepali_name": "घ्याङलेख"
+					},
+					"212": {
+						"id": "212",
+						"english_name": "sunkoshi",
+						"nepali_name": "सुनकोशी"
+					},
+					"213": {
+						"id": "213",
+						"english_name": "golanjor",
+						"nepali_name": "गोलन्जोर"
+					},
+					"214": {
+						"id": "214",
+						"english_name": "marin thakur",
+						"nepali_name": "मरिन ठाकुर"
+					}
+				}
+			}
+		},
+		"21": {
+			"id": "21",
+			"name": "रामेछाप / Ramechhap",
+			"nepali_name": "रामेछाप",
+			"english_name": "ramechhap",
+			"locations": {
+				"21": {
+					"215": {
+						"id": "215",
+						"english_name": "ramechhap",
+						"nepali_name": "रामेछाप"
+					},
+					"216": {
+						"id": "216",
+						"english_name": "manthali",
+						"nepali_name": "मन्थली"
+					},
+					"217": {
+						"id": "217",
+						"english_name": "umakunda",
+						"nepali_name": "उमाकुण्ड"
+					},
+					"218": {
+						"id": "218",
+						"english_name": "gokulganga",
+						"nepali_name": "गोकुलगंगा"
+					},
+					"219": {
+						"id": "219",
+						"english_name": "likhu",
+						"nepali_name": "लिखु"
+					},
+					"220": {
+						"id": "220",
+						"english_name": "doramba",
+						"nepali_name": "दोरम्बा"
+					},
+					"221": {
+						"id": "221",
+						"english_name": "khanda devi",
+						"nepali_name": "खाडादेवी"
+					},
+					"222": {
+						"id": "222",
+						"english_name": "sunapathi",
+						"nepali_name": "सुनापती"
+					}
+				}
+			}
+		},
+		"22": {
+			"id": "22",
+			"name": "दोलखा / Dolkha",
+			"nepali_name": "दोलखा",
+			"english_name": "dolkha",
+			"locations": {
+				"22": {
+					"223": {
+						"id": "223",
+						"english_name": "bhimeshwor municipality",
+						"nepali_name": "भिमेश्वर नगरपालिका"
+					},
+					"224": {
+						"id": "224",
+						"english_name": "jiri municipality",
+						"nepali_name": "जिरि नगरपालिका"
+					},
+					"225": {
+						"id": "225",
+						"english_name": "bhigu",
+						"nepali_name": "विगु"
+					},
+					"226": {
+						"id": "226",
+						"english_name": "kalinchowk village council",
+						"nepali_name": "कालिञ्चोक गाउँपालिका"
+					},
+					"227": {
+						"id": "227",
+						"english_name": "shailung",
+						"nepali_name": "शैलुङ"
+					},
+					"228": {
+						"id": "228",
+						"english_name": "melung village council",
+						"nepali_name": "मेलुङ गाउँपालिका"
+					},
+					"229": {
+						"id": "229",
+						"english_name": "tamakoshi village council",
+						"nepali_name": "तामाकोशी गाउँपालिका"
+					},
+					"230": {
+						"id": "230",
+						"english_name": "baiteshwor",
+						"nepali_name": "बैत्यश्वर"
+					},
+					"231": {
+						"id": "231",
+						"english_name": "gaurishankar  village council",
+						"nepali_name": "गौरीशंकर गाउँपालिका"
+					}
+				}
+			}
+		},
+		"23": {
+			"id": "23",
+			"name": "सिन्धुपाल्चोक / Sindhupalchowk",
+			"nepali_name": "सिन्धुपाल्चोक",
+			"english_name": "sindhupalchowk",
+			"locations": {
+				"23": {
+					"232": {
+						"id": "232",
+						"english_name": "baahrabise",
+						"nepali_name": "बाह्वविसे"
+					},
+					"233": {
+						"id": "233",
+						"english_name": "melamchi",
+						"nepali_name": "मेलम्ची"
+					},
+					"234": {
+						"id": "234",
+						"english_name": "chautara  sangachowkgadhi",
+						"nepali_name": "चौतारा साँगाचोकगढी"
+					},
+					"235": {
+						"id": "235",
+						"english_name": "lisankhu pakhar",
+						"nepali_name": "लिसंखु पाखर"
+					},
+					"236": {
+						"id": "236",
+						"english_name": "sunkoshi",
+						"nepali_name": "सुनकोशी"
+					},
+					"237": {
+						"id": "237",
+						"english_name": "helambu",
+						"nepali_name": "हेलम्बु"
+					},
+					"238": {
+						"id": "238",
+						"english_name": "indrawati",
+						"nepali_name": "ईन्द्रावती"
+					},
+					"239": {
+						"id": "239",
+						"english_name": "bhotekoshi",
+						"nepali_name": "भोटेकोशी"
+					},
+					"240": {
+						"id": "240",
+						"english_name": "balefi",
+						"nepali_name": "बलेफी"
+					},
+					"241": {
+						"id": "241",
+						"english_name": "paanchpokhari thangpal",
+						"nepali_name": "पाँचपोखरी थाङपाल"
+					},
+					"242": {
+						"id": "242",
+						"english_name": "jugal",
+						"nepali_name": "जुगल"
+					},
+					"243": {
+						"id": "243",
+						"english_name": "tripurasundhari",
+						"nepali_name": "त्रिपुरासुन्दरी"
+					}
+				}
+			}
+		},
+		"24": {
+			"id": "24",
+			"name": "काभ्रेपलान्चोक / Kavrepalanchowk",
+			"nepali_name": "काभ्रेपलान्चोक",
+			"english_name": "kavrepalanchowk",
+			"locations": {
+				"24": {
+					"244": {
+						"id": "244",
+						"english_name": "namobuddha",
+						"nepali_name": "नमोबुद्ध"
+					},
+					"245": {
+						"id": "245",
+						"english_name": "mandandeupur",
+						"nepali_name": "मण्डनदेउपुर"
+					},
+					"246": {
+						"id": "246",
+						"english_name": "panchkhal",
+						"nepali_name": "पाँचखाल"
+					},
+					"247": {
+						"id": "247",
+						"english_name": "dhulikhel",
+						"nepali_name": "धुलिखेल"
+					},
+					"248": {
+						"id": "248",
+						"english_name": "banepa",
+						"nepali_name": "बनेपा"
+					},
+					"249": {
+						"id": "249",
+						"english_name": "panauti",
+						"nepali_name": "पनौती"
+					},
+					"250": {
+						"id": "250",
+						"english_name": "mahabharat",
+						"nepali_name": "महाभारत"
+					},
+					"251": {
+						"id": "251",
+						"english_name": "bhumlu",
+						"nepali_name": "भुम्लु"
+					},
+					"252": {
+						"id": "252",
+						"english_name": "chaurideurali",
+						"nepali_name": "चौरीदेउराली"
+					},
+					"253": {
+						"id": "253",
+						"english_name": "temal",
+						"nepali_name": "तेमाल"
+					},
+					"254": {
+						"id": "254",
+						"english_name": "roshi",
+						"nepali_name": "रोशी"
+					},
+					"255": {
+						"id": "255",
+						"english_name": "khanikhola",
+						"nepali_name": "खानीखोला"
+					},
+					"256": {
+						"id": "256",
+						"english_name": "bethanchowk",
+						"nepali_name": "बेथानचोक"
+					}
+				}
+			}
+		},
+		"25": {
+			"id": "25",
+			"name": "ललितपुर / Lalitpur",
+			"nepali_name": "ललितपुर",
+			"english_name": "lalitpur",
+			"locations": {
+				"25": {
+					"257": {
+						"id": "257",
+						"english_name": "lalitpur",
+						"nepali_name": "ललितपुर"
+					},
+					"258": {
+						"id": "258",
+						"english_name": "godawari",
+						"nepali_name": "गोदावरी"
+					},
+					"259": {
+						"id": "259",
+						"english_name": "mahalaxmi",
+						"nepali_name": "महालक्ष्मी"
+					},
+					"260": {
+						"id": "260",
+						"english_name": "bagmati",
+						"nepali_name": "वाग्मती"
+					},
+					"261": {
+						"id": "261",
+						"english_name": "mahangkal",
+						"nepali_name": "महांकाल"
+					},
+					"262": {
+						"id": "262",
+						"english_name": "konjyosom",
+						"nepali_name": "कोन्ज्योसोम"
+					}
+				}
+			}
+		},
+		"26": {
+			"id": "26",
+			"name": "भक्तपुर / Bhaktapur",
+			"nepali_name": "भक्तपुर",
+			"english_name": "bhaktapur",
+			"locations": {
+				"26": {
+					"263": {
+						"id": "263",
+						"english_name": "bhaktapur",
+						"nepali_name": "भक्तपुर"
+					},
+					"264": {
+						"id": "264",
+						"english_name": "madhayapur thimi",
+						"nepali_name": "मध्यपुर थिमी"
+					},
+					"265": {
+						"id": "265",
+						"english_name": "suryabinayak",
+						"nepali_name": "सूर्यविनायक"
+					},
+					"266": {
+						"id": "266",
+						"english_name": "changunarayan",
+						"nepali_name": "चाँगुनारायण"
+					}
+				}
+			}
+		},
+		"27": {
+			"id": "27",
+			"name": "काठमाण्डौ / Kathmandu",
+			"nepali_name": "काठमाण्डौ",
+			"english_name": "kathmandu",
+			"locations": {
+				"27": {
+					"267": {
+						"id": "267",
+						"english_name": "kathmandu",
+						"nepali_name": "काठमाण्डौ"
+					},
+					"268": {
+						"id": "268",
+						"english_name": "gokarneshwor",
+						"nepali_name": "गोकर्णेश्वर"
+					},
+					"269": {
+						"id": "269",
+						"english_name": "tokha",
+						"nepali_name": "टोखा"
+					},
+					"270": {
+						"id": "270",
+						"english_name": "takreshwor",
+						"nepali_name": "तार्केश्वर"
+					},
+					"271": {
+						"id": "271",
+						"english_name": "nagarjun",
+						"nepali_name": "नागार्जुन"
+					},
+					"272": {
+						"id": "272",
+						"english_name": "chandragiri",
+						"nepali_name": "चन्द्रागिरी"
+					},
+					"273": {
+						"id": "273",
+						"english_name": "kirtipur",
+						"nepali_name": "किर्तिपुर"
+					},
+					"274": {
+						"id": "274",
+						"english_name": "budhanilkhantha",
+						"nepali_name": "बुढानिलकण्ठ"
+					},
+					"275": {
+						"id": "275",
+						"english_name": "kageshwori manohara",
+						"nepali_name": "कागेश्वरी मनोहरा"
+					},
+					"723": {
+						"id": "723",
+						"english_name": "dakchhinkali",
+						"nepali_name": "दक्षिणकाली"
+					},
+					"725": {
+						"id": "725",
+						"english_name": "shankharapur",
+						"nepali_name": "शङ्खरापुर"
+					}
+				}
+			}
+		},
+		"28": {
+			"id": "28",
+			"name": "नुवाकोट / Nuwakot",
+			"nepali_name": "नुवाकोट",
+			"english_name": "nuwakot",
+			"locations": {
+				"28": {
+					"276": {
+						"id": "276",
+						"english_name": "bidur",
+						"nepali_name": "विदुर"
+					},
+					"277": {
+						"id": "277",
+						"english_name": "belkotgadi",
+						"nepali_name": "बेलकोटगढी"
+					},
+					"278": {
+						"id": "278",
+						"english_name": "dupcheshwor",
+						"nepali_name": "दुप्चेश्वर"
+					},
+					"279": {
+						"id": "279",
+						"english_name": "panchakanya",
+						"nepali_name": "पंञ्चकन्या"
+					},
+					"280": {
+						"id": "280",
+						"english_name": "tadi",
+						"nepali_name": "तादी"
+					},
+					"281": {
+						"id": "281",
+						"english_name": "suryagadhi",
+						"nepali_name": "सुर्यगढी"
+					},
+					"282": {
+						"id": "282",
+						"english_name": "kakani",
+						"nepali_name": "ककनी"
+					},
+					"283": {
+						"id": "283",
+						"english_name": "shivapuri",
+						"nepali_name": "शिवपुरी"
+					},
+					"284": {
+						"id": "284",
+						"english_name": "tarkeshwor",
+						"nepali_name": "तार्केश्वर"
+					},
+					"285": {
+						"id": "285",
+						"english_name": "meghang",
+						"nepali_name": "मेघाङ"
+					},
+					"286": {
+						"id": "286",
+						"english_name": "likhu",
+						"nepali_name": "लिखु"
+					},
+					"287": {
+						"id": "287",
+						"english_name": "kispang",
+						"nepali_name": "किस्पाङ"
+					}
+				}
+			}
+		},
+		"29": {
+			"id": "29",
+			"name": "रसुवा / Rasuwa",
+			"nepali_name": "रसुवा",
+			"english_name": "rasuwa",
+			"locations": {
+				"29": {
+					"288": {
+						"id": "288",
+						"english_name": "parbatikunda",
+						"nepali_name": "पार्वतीकुण्ड"
+					},
+					"289": {
+						"id": "289",
+						"english_name": "gosaikunda",
+						"nepali_name": "गोसाईकुण्ड"
+					},
+					"290": {
+						"id": "290",
+						"english_name": "uttargaya",
+						"nepali_name": "उत्तरगया"
+					},
+					"291": {
+						"id": "291",
+						"english_name": "kalika",
+						"nepali_name": "कालिका"
+					},
+					"292": {
+						"id": "292",
+						"english_name": "naukunda",
+						"nepali_name": "नौकुण्ड"
+					}
+				}
+			}
+		},
+		"30": {
+			"id": "30",
+			"name": "धादिङ / Dhading",
+			"nepali_name": "धादिङ",
+			"english_name": "dhading",
+			"locations": {
+				"30": {
+					"293": {
+						"id": "293",
+						"english_name": "dhunibeshi",
+						"nepali_name": "धुनीबेशी"
+					},
+					"294": {
+						"id": "294",
+						"english_name": "nilkantha",
+						"nepali_name": "निलकण्ठ"
+					},
+					"295": {
+						"id": "295",
+						"english_name": "rubi valley",
+						"nepali_name": "रुवी भ्याली"
+					},
+					"296": {
+						"id": "296",
+						"english_name": "galchhi",
+						"nepali_name": "गल्छी"
+					},
+					"297": {
+						"id": "297",
+						"english_name": "khaniyabaas",
+						"nepali_name": "खनियाबास"
+					},
+					"298": {
+						"id": "298",
+						"english_name": "gangajamuna",
+						"nepali_name": "गंगाजमुना"
+					},
+					"299": {
+						"id": "299",
+						"english_name": "netrawati",
+						"nepali_name": "नेत्रावती"
+					},
+					"300": {
+						"id": "300",
+						"english_name": "tripurasundhari",
+						"nepali_name": "त्रिपुरासुन्दरी"
+					},
+					"301": {
+						"id": "301",
+						"english_name": "jwalamukhi",
+						"nepali_name": "ज्वालामुखी"
+					},
+					"302": {
+						"id": "302",
+						"english_name": "gajuri",
+						"nepali_name": "गजुरी"
+					},
+					"303": {
+						"id": "303",
+						"english_name": "thakre",
+						"nepali_name": "थाक्रे"
+					},
+					"304": {
+						"id": "304",
+						"english_name": "benighaṭa rorang",
+						"nepali_name": "बेनीघाटरोराङ"
+					},
+					"305": {
+						"id": "305",
+						"english_name": "siddalek",
+						"nepali_name": "सिद्धलेक"
+					}
+				}
+			}
+		},
+		"31": {
+			"id": "31",
+			"name": "मकवानपुर / Makwanpur",
+			"nepali_name": "मकवानपुर",
+			"english_name": "makwanpur",
+			"locations": {
+				"31": {
+					"306": {
+						"id": "306",
+						"english_name": "hetauda",
+						"nepali_name": "हेटौडा"
+					},
+					"307": {
+						"id": "307",
+						"english_name": "thaha",
+						"nepali_name": "थाहा"
+					},
+					"308": {
+						"id": "308",
+						"english_name": "bagmati",
+						"nepali_name": "बाग्मती"
+					},
+					"309": {
+						"id": "309",
+						"english_name": "bakaiya",
+						"nepali_name": "बकैया"
+					},
+					"310": {
+						"id": "310",
+						"english_name": "bhimphedhi",
+						"nepali_name": "भीमफेदी"
+					},
+					"311": {
+						"id": "311",
+						"english_name": "manahari",
+						"nepali_name": "मनहरी"
+					},
+					"312": {
+						"id": "312",
+						"english_name": "makwanpurgadhi",
+						"nepali_name": "मकवानपुरगढी"
+					},
+					"313": {
+						"id": "313",
+						"english_name": "raksirang",
+						"nepali_name": "राक्सिराङ्ग"
+					},
+					"314": {
+						"id": "314",
+						"english_name": "kailash",
+						"nepali_name": "कैलाश"
+					},
+					"315": {
+						"id": "315",
+						"english_name": "indra sarobar",
+						"nepali_name": "ईन्द्र सरोवर"
+					}
+				}
+			}
+		},
+		"35": {
+			"id": "35",
+			"name": "चितवन / Chitwan",
+			"nepali_name": "चितवन",
+			"english_name": "chitwan",
+			"locations": {
+				"35": {
+					"355": {
+						"id": "355",
+						"english_name": "bharatpur",
+						"nepali_name": "भरतपुर"
+					},
+					"356": {
+						"id": "356",
+						"english_name": "madi",
+						"nepali_name": "माडी"
+					},
+					"358": {
+						"id": "358",
+						"english_name": "khairhani",
+						"nepali_name": "खैरहनी"
+					},
+					"359": {
+						"id": "359",
+						"english_name": "rapti",
+						"nepali_name": "राप्ती"
+					},
+					"360": {
+						"id": "360",
+						"english_name": "ratnanagar",
+						"nepali_name": "रत्ननगर"
+					},
+					"361": {
+						"id": "361",
+						"english_name": "ichhakamana",
+						"nepali_name": "ईच्छाकामना"
+					},
+					"727": {
+						"id": "727",
+						"english_name": "kalika",
+						"nepali_name": "कालिका"
+					}
+				}
+			}
+		}
+	},
+	"4": {
+		"36": {
+			"id": "36",
+			"name": "गोरखा / Gorkha",
+			"nepali_name": "गोरखा",
+			"english_name": "gorkha",
+			"locations": {
+				"36": {
+					"362": {
+						"id": "362",
+						"english_name": "gorkha",
+						"nepali_name": "गोरखा"
+					},
+					"363": {
+						"id": "363",
+						"english_name": "palungtar",
+						"nepali_name": "पालुङटार"
+					},
+					"364": {
+						"id": "364",
+						"english_name": "chumnubri",
+						"nepali_name": "चुमनुव्री"
+					},
+					"365": {
+						"id": "365",
+						"english_name": "dharche",
+						"nepali_name": "धार्चे"
+					},
+					"366": {
+						"id": "366",
+						"english_name": "sulikot",
+						"nepali_name": "सुलीकोट"
+					},
+					"367": {
+						"id": "367",
+						"english_name": "ajirkot",
+						"nepali_name": "अजिरकोट"
+					},
+					"368": {
+						"id": "368",
+						"english_name": "aarughat",
+						"nepali_name": "आरुघाट"
+					},
+					"369": {
+						"id": "369",
+						"english_name": "bhimsen",
+						"nepali_name": "भिमसेन"
+					},
+					"370": {
+						"id": "370",
+						"english_name": "siranchok",
+						"nepali_name": "सिरानचोक"
+					},
+					"371": {
+						"id": "371",
+						"english_name": "shahid lakhan",
+						"nepali_name": "शहिद लखन"
+					},
+					"372": {
+						"id": "372",
+						"english_name": "gandaki",
+						"nepali_name": "गण्डकी"
+					}
+				}
+			}
+		},
+		"37": {
+			"id": "37",
+			"name": "लमजुङ / Lamjung",
+			"nepali_name": "लमजुङ",
+			"english_name": "lamjung",
+			"locations": {
+				"37": {
+					"373": {
+						"id": "373",
+						"english_name": "beshi sahar",
+						"nepali_name": "बेशीशहर"
+					},
+					"374": {
+						"id": "374",
+						"english_name": "sundarbazaar",
+						"nepali_name": "सुन्दरबजार"
+					},
+					"375": {
+						"id": "375",
+						"english_name": "madhya nepal",
+						"nepali_name": "मध्यनेपाल"
+					},
+					"376": {
+						"id": "376",
+						"english_name": "rinus",
+						"nepali_name": "राइनस"
+					},
+					"377": {
+						"id": "377",
+						"english_name": "marshyangdi",
+						"nepali_name": "मर्स्याङदी"
+					},
+					"378": {
+						"id": "378",
+						"english_name": "dordi",
+						"nepali_name": "दोर्दी"
+					},
+					"379": {
+						"id": "379",
+						"english_name": "kwaholasothar",
+						"nepali_name": "क्व्होलासोथार"
+					},
+					"380": {
+						"id": "380",
+						"english_name": "dudhpokhari",
+						"nepali_name": "दुधपोखरी"
+					}
+				}
+			}
+		},
+		"38": {
+			"id": "38",
+			"name": "तनहुँ / Tanahun",
+			"nepali_name": "तनहुँ",
+			"english_name": "tanahun",
+			"locations": {
+				"38": {
+					"381": {
+						"id": "381",
+						"english_name": "bhanu",
+						"nepali_name": "भानु"
+					},
+					"382": {
+						"id": "382",
+						"english_name": "bhimad",
+						"nepali_name": "भिमाद"
+					},
+					"383": {
+						"id": "383",
+						"english_name": "byas",
+						"nepali_name": "ब्यास"
+					},
+					"384": {
+						"id": "384",
+						"english_name": "shukla gandaki",
+						"nepali_name": "शुक्लागण्डकी"
+					},
+					"385": {
+						"id": "385",
+						"english_name": "aabukhaireni",
+						"nepali_name": "आँबुखैरेनी"
+					},
+					"386": {
+						"id": "386",
+						"english_name": "rishing",
+						"nepali_name": "ऋषिंङ्ग"
+					},
+					"387": {
+						"id": "387",
+						"english_name": "ghiring",
+						"nepali_name": "घिरिङ"
+					},
+					"388": {
+						"id": "388",
+						"english_name": "devghat",
+						"nepali_name": "देवघाट"
+					},
+					"389": {
+						"id": "389",
+						"english_name": "bandipur",
+						"nepali_name": "बन्दीपुर"
+					},
+					"390": {
+						"id": "390",
+						"english_name": "myagde",
+						"nepali_name": "म्याग्दे"
+					}
+				}
+			}
+		},
+		"39": {
+			"id": "39",
+			"name": "स्याङजा / Syangja",
+			"nepali_name": "स्याङजा",
+			"english_name": "syangja",
+			"locations": {
+				"39": {
+					"391": {
+						"id": "391",
+						"english_name": "putalibazaar",
+						"nepali_name": "पुतलीबजार"
+					},
+					"392": {
+						"id": "392",
+						"english_name": "galyang",
+						"nepali_name": "गल्याङ"
+					},
+					"393": {
+						"id": "393",
+						"english_name": "bhirkot",
+						"nepali_name": "भिरकोट"
+					},
+					"394": {
+						"id": "394",
+						"english_name": "waling",
+						"nepali_name": "वालिङ"
+					},
+					"395": {
+						"id": "395",
+						"english_name": "chapakot",
+						"nepali_name": "चापाकोट"
+					},
+					"396": {
+						"id": "396",
+						"english_name": "biruwa",
+						"nepali_name": "विरुवा"
+					},
+					"397": {
+						"id": "397",
+						"english_name": "aadhikhola",
+						"nepali_name": "आँधीखोला"
+					},
+					"398": {
+						"id": "398",
+						"english_name": "kaligandaki",
+						"nepali_name": "कालीगण्डकी"
+					},
+					"399": {
+						"id": "399",
+						"english_name": "phedikhola",
+						"nepali_name": "फेदीखोला"
+					},
+					"400": {
+						"id": "400",
+						"english_name": "harinaas",
+						"nepali_name": "हरीनास"
+					},
+					"401": {
+						"id": "401",
+						"english_name": "arjun chaupari",
+						"nepali_name": "अर्जुन चौपारी"
+					}
+				}
+			}
+		},
+		"40": {
+			"id": "40",
+			"name": "कास्की / Kaski",
+			"nepali_name": "कास्की",
+			"english_name": "kaski",
+			"locations": {
+				"40": {
+					"402": {
+						"id": "402",
+						"english_name": "pokhara lekhnath",
+						"nepali_name": "पोखरा लेखनाथ"
+					},
+					"403": {
+						"id": "403",
+						"english_name": "rupa",
+						"nepali_name": "रुपा"
+					},
+					"404": {
+						"id": "404",
+						"english_name": "madi",
+						"nepali_name": "मादी"
+					},
+					"405": {
+						"id": "405",
+						"english_name": "machhapuchhre",
+						"nepali_name": "माछापुच्छ्रे"
+					},
+					"406": {
+						"id": "406",
+						"english_name": "anapurna",
+						"nepali_name": "अन्नपूर्ण"
+					}
+				}
+			}
+		},
+		"41": {
+			"id": "41",
+			"name": "मनाङ / Manang",
+			"nepali_name": "मनाङ",
+			"english_name": "manang",
+			"locations": {
+				"41": {
+					"407": {
+						"id": "407",
+						"english_name": "nashong",
+						"nepali_name": "नशोङ"
+					},
+					"408": {
+						"id": "408",
+						"english_name": "chame",
+						"nepali_name": "चामे"
+					},
+					"409": {
+						"id": "409",
+						"english_name": "neshyang",
+						"nepali_name": "नेस्याङ"
+					},
+					"721": {
+						"id": "721",
+						"english_name": "narfu",
+						"nepali_name": "नारफू"
+					}
+				}
+			}
+		},
+		"42": {
+			"id": "42",
+			"name": "मुस्ताङ / Mustang",
+			"nepali_name": "मुस्ताङ",
+			"english_name": "mustang",
+			"locations": {
+				"42": {
+					"410": {
+						"id": "410",
+						"english_name": "bahgaun muktikchhetra",
+						"nepali_name": "बाह्गाउँ मुक्तिक्षेत्र"
+					},
+					"411": {
+						"id": "411",
+						"english_name": "gharapajhong",
+						"nepali_name": "घरपझोङ"
+					},
+					"412": {
+						"id": "412",
+						"english_name": "thasang",
+						"nepali_name": "थासाङ"
+					},
+					"413": {
+						"id": "413",
+						"english_name": "lomanthang",
+						"nepali_name": "लोमन्थाङ"
+					},
+					"414": {
+						"id": "414",
+						"english_name": "dalome",
+						"nepali_name": "दालोमे"
+					}
+				}
+			}
+		},
+		"43": {
+			"id": "43",
+			"name": "पर्वत / Parbat",
+			"nepali_name": "पर्वत",
+			"english_name": "parbat",
+			"locations": {
+				"43": {
+					"416": {
+						"id": "416",
+						"english_name": "phalebas",
+						"nepali_name": "फलेवास"
+					},
+					"417": {
+						"id": "417",
+						"english_name": "bihadi",
+						"nepali_name": "विहादी"
+					},
+					"418": {
+						"id": "418",
+						"english_name": "jaljala",
+						"nepali_name": "जलजला"
+					},
+					"419": {
+						"id": "419",
+						"english_name": "mahashila",
+						"nepali_name": "महाशिला"
+					},
+					"420": {
+						"id": "420",
+						"english_name": "madi",
+						"nepali_name": "मादी"
+					},
+					"421": {
+						"id": "421",
+						"english_name": "painyu",
+						"nepali_name": "पैंयु"
+					},
+					"722": {
+						"id": "722",
+						"english_name": "kushma",
+						"nepali_name": "कुश्मा"
+					}
+				}
+			}
+		},
+		"44": {
+			"id": "44",
+			"name": "म्याग्दी / Myagdi",
+			"nepali_name": "म्याग्दी",
+			"english_name": "myagdi",
+			"locations": {
+				"44": {
+					"422": {
+						"id": "422",
+						"english_name": "beni",
+						"nepali_name": "बेनी"
+					},
+					"423": {
+						"id": "423",
+						"english_name": "mangala",
+						"nepali_name": "मंगला"
+					},
+					"424": {
+						"id": "424",
+						"english_name": "malika",
+						"nepali_name": "मालिका"
+					},
+					"425": {
+						"id": "425",
+						"english_name": "dhawalagiri",
+						"nepali_name": "धवलागिरी"
+					},
+					"426": {
+						"id": "426",
+						"english_name": "raghuganga",
+						"nepali_name": "रघुगंगा"
+					},
+					"427": {
+						"id": "427",
+						"english_name": "annapurna",
+						"nepali_name": "अन्नपूर्ण"
+					},
+					"726": {
+						"id": "726",
+						"english_name": "dhorpatan",
+						"nepali_name": "ढोरपाटन"
+					}
+				}
+			}
+		},
+		"45": {
+			"id": "45",
+			"name": "वाग्लुङ / Baglung",
+			"nepali_name": "वाग्लुङ",
+			"english_name": "baglung",
+			"locations": {
+				"45": {
+					"428": {
+						"id": "428",
+						"english_name": "baglung",
+						"nepali_name": "बाग्लुङ"
+					},
+					"429": {
+						"id": "429",
+						"english_name": "jaimuni",
+						"nepali_name": "जैमुनी"
+					},
+					"430": {
+						"id": "430",
+						"english_name": "dhorpatan",
+						"nepali_name": "ढोरपाटन"
+					},
+					"431": {
+						"id": "431",
+						"english_name": "galakota",
+						"nepali_name": "गलकोट"
+					},
+					"432": {
+						"id": "432",
+						"english_name": "tarakhola",
+						"nepali_name": "ताराखोला"
+					},
+					"433": {
+						"id": "433",
+						"english_name": "kaṭhekhola",
+						"nepali_name": "काठेखोला"
+					},
+					"434": {
+						"id": "434",
+						"english_name": "bareng",
+						"nepali_name": "वरेङ"
+					},
+					"435": {
+						"id": "435",
+						"english_name": "badigad",
+						"nepali_name": "बडीगाड"
+					},
+					"436": {
+						"id": "436",
+						"english_name": "nishikhola",
+						"nepali_name": "निसीखोला"
+					},
+					"437": {
+						"id": "437",
+						"english_name": "tamankhola",
+						"nepali_name": "तमानखोला"
+					}
+				}
+			}
+		},
+		"48": {
+			"id": "48",
+			"name": "नवलपरासी (प्र. ४) / Nawalparasi (Prov. 4)",
+			"nepali_name": "नवलपरासी (प्र. ४)",
+			"english_name": "nawalparasi (prov. 4)",
+			"locations": {
+				"48": {
+					"460": {
+						"id": "460",
+						"english_name": "gaiḍakoṭ",
+						"nepali_name": "गैडाकोट"
+					},
+					"461": {
+						"id": "461",
+						"english_name": "devchuli",
+						"nepali_name": "देवचुली"
+					},
+					"462": {
+						"id": "462",
+						"english_name": "kawasoti",
+						"nepali_name": "कावासोती"
+					},
+					"463": {
+						"id": "463",
+						"english_name": "madhyabindu",
+						"nepali_name": "मध्यविन्दु"
+					},
+					"467": {
+						"id": "467",
+						"english_name": "bulingṭar",
+						"nepali_name": "बुलिङटार"
+					},
+					"468": {
+						"id": "468",
+						"english_name": "bungdikali",
+						"nepali_name": "बुङदीकाली"
+					},
+					"469": {
+						"id": "469",
+						"english_name": "hupsekot",
+						"nepali_name": "हुप्सेकोट"
+					},
+					"470": {
+						"id": "470",
+						"english_name": "binayi triveni",
+						"nepali_name": "विनयी त्रिवेणी"
+					}
+				}
+			}
+		}
+	},
+	"5": {
+		"46": {
+			"id": "46",
+			"name": "गुल्मी / Gulmi",
+			"nepali_name": "गुल्मी",
+			"english_name": "gulmi",
+			"locations": {
+				"46": {
+					"439": {
+						"id": "439",
+						"english_name": "resunga",
+						"nepali_name": "रेसुङ्गा"
+					},
+					"440": {
+						"id": "440",
+						"english_name": "ishma",
+						"nepali_name": "इस्मा"
+					},
+					"441": {
+						"id": "441",
+						"english_name": "kaligandaki",
+						"nepali_name": "कालीगण्डकी"
+					},
+					"442": {
+						"id": "442",
+						"english_name": "gulmi durbar",
+						"nepali_name": "गुल्मीदरबार"
+					},
+					"443": {
+						"id": "443",
+						"english_name": "satyawati",
+						"nepali_name": "सत्यवती"
+					},
+					"444": {
+						"id": "444",
+						"english_name": "chandrakot",
+						"nepali_name": "चन्द्रकोट"
+					},
+					"445": {
+						"id": "445",
+						"english_name": "ruru",
+						"nepali_name": "रुरु"
+					},
+					"446": {
+						"id": "446",
+						"english_name": "chatrakot",
+						"nepali_name": "छत्रकोट"
+					},
+					"447": {
+						"id": "447",
+						"english_name": "dhurkot",
+						"nepali_name": "धुर्कोट"
+					},
+					"448": {
+						"id": "448",
+						"english_name": "madane",
+						"nepali_name": "मदाने"
+					},
+					"449": {
+						"id": "449",
+						"english_name": "malika",
+						"nepali_name": "मालिका"
+					},
+					"728": {
+						"id": "728",
+						"english_name": "musikot",
+						"nepali_name": "मुसिकोट"
+					}
+				}
+			}
+		},
+		"47": {
+			"id": "47",
+			"name": "पाल्पा / Palpa",
+			"nepali_name": "पाल्पा",
+			"english_name": "palpa",
+			"locations": {
+				"47": {
+					"450": {
+						"id": "450",
+						"english_name": "rampur",
+						"nepali_name": "रामपुर"
+					},
+					"451": {
+						"id": "451",
+						"english_name": "tansen",
+						"nepali_name": "तानसेन"
+					},
+					"452": {
+						"id": "452",
+						"english_name": "nisdi",
+						"nepali_name": "निस्दी"
+					},
+					"453": {
+						"id": "453",
+						"english_name": "purvakhola",
+						"nepali_name": "पूर्वखोला"
+					},
+					"454": {
+						"id": "454",
+						"english_name": "rambha",
+						"nepali_name": "रम्भा"
+					},
+					"455": {
+						"id": "455",
+						"english_name": "mathagaḍhī",
+						"nepali_name": "माथागढी"
+					},
+					"456": {
+						"id": "456",
+						"english_name": "tinau",
+						"nepali_name": "तिनाउ"
+					},
+					"457": {
+						"id": "457",
+						"english_name": "baganasakali",
+						"nepali_name": "बगनासकाली"
+					},
+					"458": {
+						"id": "458",
+						"english_name": "ribdikot",
+						"nepali_name": "रिब्दिकोट"
+					},
+					"459": {
+						"id": "459",
+						"english_name": "rainadēvi chhahara",
+						"nepali_name": "रैनादेवी छहरा"
+					}
+				}
+			}
+		},
+		"49": {
+			"id": "49",
+			"name": "रुपन्देही / Rupandehi",
+			"nepali_name": "रुपन्देही",
+			"english_name": "rupandehi",
+			"locations": {
+				"49": {
+					"475": {
+						"id": "475",
+						"english_name": "butwal",
+						"nepali_name": "बुटवल"
+					},
+					"476": {
+						"id": "476",
+						"english_name": "devadaha",
+						"nepali_name": "देवदह"
+					},
+					"477": {
+						"id": "477",
+						"english_name": "lumbinī sanskr̥tika",
+						"nepali_name": "लुम्बिनी सांस्कृतिक"
+					},
+					"478": {
+						"id": "478",
+						"english_name": "sainamaina",
+						"nepali_name": "सैनामैना"
+					},
+					"479": {
+						"id": "479",
+						"english_name": "siddharthanagara",
+						"nepali_name": "सिद्धार्थनगर"
+					},
+					"480": {
+						"id": "480",
+						"english_name": "tilothma",
+						"nepali_name": "तिलोत्तमा"
+					},
+					"481": {
+						"id": "481",
+						"english_name": "gaiḍahava",
+						"nepali_name": "गैडहवा"
+					},
+					"482": {
+						"id": "482",
+						"english_name": "kanchan",
+						"nepali_name": "कंचन"
+					},
+					"483": {
+						"id": "483",
+						"english_name": "kotahimai",
+						"nepali_name": "कोटहीमाई"
+					},
+					"484": {
+						"id": "484",
+						"english_name": "marchavari",
+						"nepali_name": "मर्चवारी"
+					},
+					"485": {
+						"id": "485",
+						"english_name": "mayadevi",
+						"nepali_name": "मायादेवी"
+					},
+					"486": {
+						"id": "486",
+						"english_name": "omasatiya",
+						"nepali_name": "ओमसतिया"
+					},
+					"487": {
+						"id": "487",
+						"english_name": "rohiṇi",
+						"nepali_name": "रोहिणी"
+					},
+					"488": {
+						"id": "488",
+						"english_name": "sammarimai",
+						"nepali_name": "सम्मरीमाई"
+					},
+					"489": {
+						"id": "489",
+						"english_name": "siyari",
+						"nepali_name": "सियारी"
+					},
+					"490": {
+						"id": "490",
+						"english_name": "suddhodhana",
+						"nepali_name": "शुद्धोधन"
+					}
+				}
+			}
+		},
+		"50": {
+			"id": "50",
+			"name": "अर्घाखाँची / Arghakhanchi",
+			"nepali_name": "अर्घाखाँची",
+			"english_name": "arghakhanchi",
+			"locations": {
+				"50": {
+					"491": {
+						"id": "491",
+						"english_name": "sitaganga",
+						"nepali_name": "सितगंगा"
+					},
+					"492": {
+						"id": "492",
+						"english_name": "sandhikharka",
+						"nepali_name": "सन्धिखर्क"
+					},
+					"493": {
+						"id": "493",
+						"english_name": "bhumikasthana",
+						"nepali_name": "भूमिकास्थान"
+					},
+					"494": {
+						"id": "494",
+						"english_name": "chatradev",
+						"nepali_name": "छत्रदेव"
+					},
+					"495": {
+						"id": "495",
+						"english_name": "paṇini",
+						"nepali_name": "पाणिनी"
+					},
+					"496": {
+						"id": "496",
+						"english_name": "malarani",
+						"nepali_name": "मालारानी"
+					}
+				}
+			}
+		},
+		"51": {
+			"id": "51",
+			"name": "कपिलवस्तु / Kapilvastu",
+			"nepali_name": "कपिलवस्तु",
+			"english_name": "kapilvastu",
+			"locations": {
+				"51": {
+					"497": {
+						"id": "497",
+						"english_name": "kapilvastu",
+						"nepali_name": "कपिलवस्तु"
+					},
+					"498": {
+						"id": "498",
+						"english_name": "buddhabhumi",
+						"nepali_name": "बुद्धभूमि"
+					},
+					"499": {
+						"id": "499",
+						"english_name": "sivraj",
+						"nepali_name": "शिवराज"
+					},
+					"500": {
+						"id": "500",
+						"english_name": "maharajgunj",
+						"nepali_name": "महाराजगञ्ज"
+					},
+					"501": {
+						"id": "501",
+						"english_name": "krishna nagar",
+						"nepali_name": "कृष्णनगर"
+					},
+					"502": {
+						"id": "502",
+						"english_name": "baṇagaṅga",
+						"nepali_name": "बाणगंगा"
+					},
+					"503": {
+						"id": "503",
+						"english_name": "mayadevi",
+						"nepali_name": "मायादेवी"
+					},
+					"504": {
+						"id": "504",
+						"english_name": "yasodhara",
+						"nepali_name": "यसोधरा"
+					},
+					"505": {
+						"id": "505",
+						"english_name": "sudhodhan",
+						"nepali_name": "शुद्धोधन"
+					},
+					"506": {
+						"id": "506",
+						"english_name": "bijaynagar",
+						"nepali_name": "विजयनगर"
+					}
+				}
+			}
+		},
+		"52": {
+			"id": "52",
+			"name": "प्यूठान / Pyuthan",
+			"nepali_name": "प्यूठान",
+			"english_name": "pyuthan",
+			"locations": {
+				"52": {
+					"507": {
+						"id": "507",
+						"english_name": "swargadwari",
+						"nepali_name": "स्वर्गद्वारी"
+					},
+					"508": {
+						"id": "508",
+						"english_name": "pyuthan",
+						"nepali_name": "प्यूठान"
+					},
+					"509": {
+						"id": "509",
+						"english_name": "gaumukhi",
+						"nepali_name": "गौमुखी"
+					},
+					"510": {
+						"id": "510",
+						"english_name": "mandawi",
+						"nepali_name": "माण्डवी"
+					},
+					"511": {
+						"id": "511",
+						"english_name": "sarumarani",
+						"nepali_name": "सरुमारानी"
+					},
+					"512": {
+						"id": "512",
+						"english_name": "mallarani",
+						"nepali_name": "मल्लरानी"
+					},
+					"513": {
+						"id": "513",
+						"english_name": "naubahini",
+						"nepali_name": "नौवहिनी"
+					},
+					"514": {
+						"id": "514",
+						"english_name": "jhimruk",
+						"nepali_name": "झिमरुक"
+					},
+					"515": {
+						"id": "515",
+						"english_name": "yerawati",
+						"nepali_name": "ऐरावती"
+					}
+				}
+			}
+		},
+		"53": {
+			"id": "53",
+			"name": "रोल्पा / Rolpa",
+			"nepali_name": "रोल्पा",
+			"english_name": "rolpa",
+			"locations": {
+				"53": {
+					"516": {
+						"id": "516",
+						"english_name": "rolpa",
+						"nepali_name": "रोल्पा"
+					},
+					"517": {
+						"id": "517",
+						"english_name": "triveni",
+						"nepali_name": "त्रिवेणी"
+					},
+					"518": {
+						"id": "518",
+						"english_name": "duikhola",
+						"nepali_name": "दुईखोली"
+					},
+					"519": {
+						"id": "519",
+						"english_name": "madi",
+						"nepali_name": "माडी"
+					},
+					"520": {
+						"id": "520",
+						"english_name": "runtigadi",
+						"nepali_name": "रुन्टीगढी"
+					},
+					"521": {
+						"id": "521",
+						"english_name": "lungri",
+						"nepali_name": "लुङग्री"
+					},
+					"522": {
+						"id": "522",
+						"english_name": "sukidaha",
+						"nepali_name": "सुकिदह"
+					},
+					"523": {
+						"id": "523",
+						"english_name": "sunchhahari",
+						"nepali_name": "सुनछहरी"
+					},
+					"524": {
+						"id": "524",
+						"english_name": "suwarnawati",
+						"nepali_name": "सुवर्णावती"
+					},
+					"525": {
+						"id": "525",
+						"english_name": "thawang",
+						"nepali_name": "थवाङ"
+					}
+				}
+			}
+		},
+		"56": {
+			"id": "56",
+			"name": "दाङ / Dang",
+			"nepali_name": "दाङ",
+			"english_name": "dang",
+			"locations": {
+				"56": {
+					"545": {
+						"id": "545",
+						"english_name": "tulashipur",
+						"nepali_name": "तुलसीपुर"
+					},
+					"546": {
+						"id": "546",
+						"english_name": "ghorahi",
+						"nepali_name": "घोराही"
+					},
+					"547": {
+						"id": "547",
+						"english_name": "lamahi",
+						"nepali_name": "लमही"
+					},
+					"548": {
+						"id": "548",
+						"english_name": "bangalachuli",
+						"nepali_name": "बंगलाचुली"
+					},
+					"549": {
+						"id": "549",
+						"english_name": "dangisharan",
+						"nepali_name": "दंगीशरण"
+					},
+					"550": {
+						"id": "550",
+						"english_name": "gadawa",
+						"nepali_name": "गढवा"
+					},
+					"551": {
+						"id": "551",
+						"english_name": "rajpur",
+						"nepali_name": "राजपुर"
+					},
+					"552": {
+						"id": "552",
+						"english_name": "rapti",
+						"nepali_name": "राप्ती"
+					},
+					"553": {
+						"id": "553",
+						"english_name": "shantinagar",
+						"nepali_name": "शान्तिनगर"
+					},
+					"554": {
+						"id": "554",
+						"english_name": "babai",
+						"nepali_name": "बबई"
+					}
+				}
+			}
+		},
+		"57": {
+			"id": "57",
+			"name": "बर्दिया / Bardiya",
+			"nepali_name": "बर्दिया",
+			"english_name": "bardiya",
+			"locations": {
+				"57": {
+					"555": {
+						"id": "555",
+						"english_name": "gulariya",
+						"nepali_name": "गुलरिया"
+					},
+					"556": {
+						"id": "556",
+						"english_name": "madhuban",
+						"nepali_name": "मधुवन"
+					},
+					"557": {
+						"id": "557",
+						"english_name": "rajapur",
+						"nepali_name": "राजापुर"
+					},
+					"558": {
+						"id": "558",
+						"english_name": "thakurbaba",
+						"nepali_name": "ठाकुरबाबा"
+					},
+					"559": {
+						"id": "559",
+						"english_name": "basgadi",
+						"nepali_name": "बासगढी"
+					},
+					"560": {
+						"id": "560",
+						"english_name": "barbardiya",
+						"nepali_name": "बारबर्दिया"
+					},
+					"561": {
+						"id": "561",
+						"english_name": "badaiyatal",
+						"nepali_name": "बढैयाताल"
+					},
+					"562": {
+						"id": "562",
+						"english_name": "geruwa",
+						"nepali_name": "गेरुवा"
+					}
+				}
+			}
+		},
+		"60": {
+			"id": "60",
+			"name": "बाँके / Banke",
+			"nepali_name": "बाँके",
+			"english_name": "banke",
+			"locations": {
+				"60": {
+					"583": {
+						"id": "583",
+						"english_name": "nepalgunj",
+						"nepali_name": "नेपालगंज"
+					},
+					"584": {
+						"id": "584",
+						"english_name": "kohalpur",
+						"nepali_name": "कोहलपुर"
+					},
+					"585": {
+						"id": "585",
+						"english_name": "narainapur",
+						"nepali_name": "नरैनापुर"
+					},
+					"586": {
+						"id": "586",
+						"english_name": "rapti sonari",
+						"nepali_name": "राप्ती सोनारी"
+					},
+					"587": {
+						"id": "587",
+						"english_name": "baijnath",
+						"nepali_name": "बैजनाथ"
+					},
+					"588": {
+						"id": "588",
+						"english_name": "khajura",
+						"nepali_name": "खजुरा"
+					},
+					"589": {
+						"id": "589",
+						"english_name": "duduwa",
+						"nepali_name": "डुडुवा"
+					},
+					"590": {
+						"id": "590",
+						"english_name": "janaki",
+						"nepali_name": "जानकी"
+					}
+				}
+			}
+		},
+		"76": {
+			"id": "76",
+			"name": "नवलपरासी (प्र. ५) / Nawalparasi (Prov. 5)",
+			"nepali_name": "नवलपरासी (प्र. ५)",
+			"english_name": "nawalparasi (prov. 5)",
+			"locations": {
+				"76": {
+					"464": {
+						"id": "464",
+						"english_name": "bardaghat",
+						"nepali_name": "बर्दघाट"
+					},
+					"465": {
+						"id": "465",
+						"english_name": "ramgram",
+						"nepali_name": "रामग्राम"
+					},
+					"466": {
+						"id": "466",
+						"english_name": "sunwal",
+						"nepali_name": "सुनवल"
+					},
+					"471": {
+						"id": "471",
+						"english_name": "triveni susta",
+						"nepali_name": "त्रिवेणी सुस्ता"
+					},
+					"472": {
+						"id": "472",
+						"english_name": "pratappur",
+						"nepali_name": "प्रतापपुर"
+					},
+					"473": {
+						"id": "473",
+						"english_name": "palhīnandana",
+						"nepali_name": "पाल्हीनन्दन"
+					},
+					"474": {
+						"id": "474",
+						"english_name": "sarawal",
+						"nepali_name": "सरावल"
+					}
+				}
+			}
+		},
+		"77": {
+			"id": "77",
+			"name": "रुकुम (प्र. ५) / Rukum (Prov. 5)",
+			"nepali_name": "रुकुम (प्र. ५)",
+			"english_name": "rukum (prov. 5)",
+			"locations": {
+				"77": {
+					"529": {
+						"id": "529",
+						"english_name": "putha uttar ganga",
+						"nepali_name": "पुथा उत्तरगंगा"
+					},
+					"530": {
+						"id": "530",
+						"english_name": "bhume",
+						"nepali_name": "भूमे"
+					},
+					"531": {
+						"id": "531",
+						"english_name": "sisne",
+						"nepali_name": "सिस्ने"
+					}
+				}
+			}
+		}
+	},
+	"6": {
+		"54": {
+			"id": "54",
+			"name": "रुकुम (प्र. ६) / Rukum (Prov. 6)",
+			"nepali_name": "रुकुम (प्र. ६)",
+			"english_name": "rukum (prov. 6)",
+			"locations": {
+				"54": {
+					"526": {
+						"id": "526",
+						"english_name": "musikot",
+						"nepali_name": "मुसिकोट"
+					},
+					"527": {
+						"id": "527",
+						"english_name": "chaurjahari",
+						"nepali_name": "चौरजहारी"
+					},
+					"528": {
+						"id": "528",
+						"english_name": "aathbiskot",
+						"nepali_name": "आठबिसकोट"
+					},
+					"532": {
+						"id": "532",
+						"english_name": "bafikot",
+						"nepali_name": "बाँफिकोट"
+					},
+					"533": {
+						"id": "533",
+						"english_name": "triveni",
+						"nepali_name": "त्रिवेणी"
+					},
+					"534": {
+						"id": "534",
+						"english_name": "sanibheri",
+						"nepali_name": "सानी भेरी"
+					}
+				}
+			}
+		},
+		"55": {
+			"id": "55",
+			"name": "सल्यान / Salyan",
+			"nepali_name": "सल्यान",
+			"english_name": "salyan",
+			"locations": {
+				"55": {
+					"535": {
+						"id": "535",
+						"english_name": "sarada",
+						"nepali_name": "शारदा"
+					},
+					"536": {
+						"id": "536",
+						"english_name": "baagchaur",
+						"nepali_name": "बागचौर"
+					},
+					"537": {
+						"id": "537",
+						"english_name": "bangad kupinde",
+						"nepali_name": "बनगाड कुपिण्डे"
+					},
+					"538": {
+						"id": "538",
+						"english_name": "kalimati",
+						"nepali_name": "कालीमाटी"
+					},
+					"539": {
+						"id": "539",
+						"english_name": "triveni",
+						"nepali_name": "त्रिवेणी"
+					},
+					"540": {
+						"id": "540",
+						"english_name": "kapurkot",
+						"nepali_name": "कपुरकोट"
+					},
+					"541": {
+						"id": "541",
+						"english_name": "chhatreshwori",
+						"nepali_name": "छत्रेश्वरी"
+					},
+					"542": {
+						"id": "542",
+						"english_name": "dhorchaur",
+						"nepali_name": "ढोरचौर"
+					},
+					"543": {
+						"id": "543",
+						"english_name": "kumakh malika",
+						"nepali_name": "कुमाखमालिका"
+					},
+					"544": {
+						"id": "544",
+						"english_name": "damra",
+						"nepali_name": "दार्मा"
+					}
+				}
+			}
+		},
+		"58": {
+			"id": "58",
+			"name": "सुर्खेत / Surkhet",
+			"nepali_name": "सुर्खेत",
+			"english_name": "surkhet",
+			"locations": {
+				"58": {
+					"563": {
+						"id": "563",
+						"english_name": "birendranagar",
+						"nepali_name": "बीरेन्द्रनगर"
+					},
+					"564": {
+						"id": "564",
+						"english_name": "bheri ganga",
+						"nepali_name": "भेरीगंगा"
+					},
+					"565": {
+						"id": "565",
+						"english_name": "gurbhakot",
+						"nepali_name": "गुर्भाकोट"
+					},
+					"566": {
+						"id": "566",
+						"english_name": "panchapuri",
+						"nepali_name": "पंञ्चपुरी"
+					},
+					"567": {
+						"id": "567",
+						"english_name": "lekbeshi",
+						"nepali_name": "लेकवेशी"
+					},
+					"568": {
+						"id": "568",
+						"english_name": "chaukune",
+						"nepali_name": "चौकुने"
+					},
+					"569": {
+						"id": "569",
+						"english_name": "barahataal",
+						"nepali_name": "बराहताल"
+					},
+					"570": {
+						"id": "570",
+						"english_name": "chingad",
+						"nepali_name": "चिङगाड"
+					},
+					"571": {
+						"id": "571",
+						"english_name": "simta",
+						"nepali_name": "सिम्ता"
+					}
+				}
+			}
+		},
+		"59": {
+			"id": "59",
+			"name": "दैलेख / Dailekh",
+			"nepali_name": "दैलेख",
+			"english_name": "dailekh",
+			"locations": {
+				"59": {
+					"572": {
+						"id": "572",
+						"english_name": "narayan",
+						"nepali_name": "नारायण"
+					},
+					"573": {
+						"id": "573",
+						"english_name": "dullu",
+						"nepali_name": "दुल्लु"
+					},
+					"574": {
+						"id": "574",
+						"english_name": "chamunda brindrasaini",
+						"nepali_name": "चामुण्डा विन्द्रासैनी"
+					},
+					"575": {
+						"id": "575",
+						"english_name": "aathbis",
+						"nepali_name": "आठबीस"
+					},
+					"576": {
+						"id": "576",
+						"english_name": "bhagwati mai",
+						"nepali_name": "भगवतीमाई"
+					},
+					"577": {
+						"id": "577",
+						"english_name": "gurans",
+						"nepali_name": "गुराँस"
+					},
+					"578": {
+						"id": "578",
+						"english_name": "dungeshwor",
+						"nepali_name": "डुंगेश्वर"
+					},
+					"579": {
+						"id": "579",
+						"english_name": "naumule",
+						"nepali_name": "नौमुले"
+					},
+					"580": {
+						"id": "580",
+						"english_name": "mahabu",
+						"nepali_name": "महावु"
+					},
+					"581": {
+						"id": "581",
+						"english_name": "bhairabi",
+						"nepali_name": "भैरवी"
+					},
+					"582": {
+						"id": "582",
+						"english_name": "thatikadh",
+						"nepali_name": "ठाँटीकाँध"
+					}
+				}
+			}
+		},
+		"61": {
+			"id": "61",
+			"name": "जाजरकोट / Jajarkot",
+			"nepali_name": "जाजरकोट",
+			"english_name": "jajarkot",
+			"locations": {
+				"61": {
+					"591": {
+						"id": "591",
+						"english_name": "bheri",
+						"nepali_name": "भेरी"
+					},
+					"592": {
+						"id": "592",
+						"english_name": "chhedagaad",
+						"nepali_name": "छेडागाड"
+					},
+					"593": {
+						"id": "593",
+						"english_name": "triveni nalgaad",
+						"nepali_name": "त्रिवेणी नलगाड"
+					},
+					"594": {
+						"id": "594",
+						"english_name": "barekot",
+						"nepali_name": "बारेकोट"
+					},
+					"595": {
+						"id": "595",
+						"english_name": "kuse",
+						"nepali_name": "कुसे"
+					},
+					"596": {
+						"id": "596",
+						"english_name": "junichade",
+						"nepali_name": "जुनीचाँदे"
+					},
+					"597": {
+						"id": "597",
+						"english_name": "shivalaya",
+						"nepali_name": "शिवालय"
+					}
+				}
+			}
+		},
+		"62": {
+			"id": "62",
+			"name": "डोल्पा / Dolpa",
+			"nepali_name": "डोल्पा",
+			"english_name": "dolpa",
+			"locations": {
+				"62": {
+					"598": {
+						"id": "598",
+						"english_name": "thulibheri",
+						"nepali_name": "ठूली भेरी"
+					},
+					"599": {
+						"id": "599",
+						"english_name": "tripurasundari",
+						"nepali_name": "त्रिपुरासुन्दरी"
+					},
+					"600": {
+						"id": "600",
+						"english_name": "dolpo buddha",
+						"nepali_name": "डोल्पो बुद्ध"
+					},
+					"601": {
+						"id": "601",
+						"english_name": "shey phoksundo",
+						"nepali_name": "शे फोक्सुन्डो"
+					},
+					"602": {
+						"id": "602",
+						"english_name": "jagdulla",
+						"nepali_name": "जगदुल्ला"
+					},
+					"603": {
+						"id": "603",
+						"english_name": "mudkechula",
+						"nepali_name": "मुड्केचुला"
+					},
+					"604": {
+						"id": "604",
+						"english_name": "kaike",
+						"nepali_name": "काईके"
+					},
+					"605": {
+						"id": "605",
+						"english_name": "chharka tangsong",
+						"nepali_name": "छार्का ताङसोङ"
+					}
+				}
+			}
+		},
+		"63": {
+			"id": "63",
+			"name": "हुम्ला / Humla",
+			"nepali_name": "हुम्ला",
+			"english_name": "humla",
+			"locations": {
+				"63": {
+					"606": {
+						"id": "606",
+						"english_name": "namkha",
+						"nepali_name": "नाम्खा"
+					},
+					"607": {
+						"id": "607",
+						"english_name": "simkot",
+						"nepali_name": "सिमकोट"
+					},
+					"608": {
+						"id": "608",
+						"english_name": "kharpunath",
+						"nepali_name": "खार्पुनाथ"
+					},
+					"609": {
+						"id": "609",
+						"english_name": "sarkegaad",
+						"nepali_name": "सर्केगाड"
+					},
+					"610": {
+						"id": "610",
+						"english_name": "chankheli",
+						"nepali_name": "चंखेली"
+					},
+					"611": {
+						"id": "611",
+						"english_name": "adanchuli",
+						"nepali_name": "अदानचुली"
+					},
+					"612": {
+						"id": "612",
+						"english_name": "taajakot",
+						"nepali_name": "ताँजाकोट"
+					}
+				}
+			}
+		},
+		"64": {
+			"id": "64",
+			"name": "कालिकोट / Kalikot",
+			"nepali_name": "कालिकोट",
+			"english_name": "kalikot",
+			"locations": {
+				"64": {
+					"613": {
+						"id": "613",
+						"english_name": "khadachakra",
+						"nepali_name": "खाँडाचक्र"
+					},
+					"614": {
+						"id": "614",
+						"english_name": "raskot",
+						"nepali_name": "रास्कोट"
+					},
+					"615": {
+						"id": "615",
+						"english_name": "tilagupha",
+						"nepali_name": "तिलागुफा"
+					},
+					"616": {
+						"id": "616",
+						"english_name": "pachal jharana",
+						"nepali_name": "पचालझरना"
+					},
+					"617": {
+						"id": "617",
+						"english_name": "sanni triveni",
+						"nepali_name": "सान्नी त्रिवेणी"
+					},
+					"618": {
+						"id": "618",
+						"english_name": "naraharinath",
+						"nepali_name": "नरहरिनाथ"
+					},
+					"619": {
+						"id": "619",
+						"english_name": "kalika",
+						"nepali_name": "कालिका"
+					},
+					"620": {
+						"id": "620",
+						"english_name": "mahabai",
+						"nepali_name": "महावै"
+					},
+					"621": {
+						"id": "621",
+						"english_name": "palata",
+						"nepali_name": "पलाता"
+					}
+				}
+			}
+		},
+		"65": {
+			"id": "65",
+			"name": "मुगू / Mugu",
+			"nepali_name": "मुगू",
+			"english_name": "mugu",
+			"locations": {
+				"65": {
+					"622": {
+						"id": "622",
+						"english_name": "chhayanath rara",
+						"nepali_name": "छायाँनाथ रारा"
+					},
+					"623": {
+						"id": "623",
+						"english_name": "mugum karmarong",
+						"nepali_name": "मुगुम कार्मारोंग"
+					},
+					"624": {
+						"id": "624",
+						"english_name": "soru",
+						"nepali_name": "सोरु"
+					},
+					"625": {
+						"id": "625",
+						"english_name": "khatyad",
+						"nepali_name": "खत्याड"
+					}
+				}
+			}
+		},
+		"66": {
+			"id": "66",
+			"name": "जुम्ला / Jumla",
+			"nepali_name": "जुम्ला",
+			"english_name": "jumla",
+			"locations": {
+				"66": {
+					"626": {
+						"id": "626",
+						"english_name": "chandannath",
+						"nepali_name": "चन्दननाथ"
+					},
+					"627": {
+						"id": "627",
+						"english_name": "kanaka sundari",
+						"nepali_name": "कनकासुन्दरी"
+					},
+					"628": {
+						"id": "628",
+						"english_name": "sinja",
+						"nepali_name": "सिंजा"
+					},
+					"629": {
+						"id": "629",
+						"english_name": "hima",
+						"nepali_name": "हिमा"
+					},
+					"630": {
+						"id": "630",
+						"english_name": "tila",
+						"nepali_name": "तिला"
+					},
+					"631": {
+						"id": "631",
+						"english_name": "guthichaur",
+						"nepali_name": "गुठिचौर"
+					},
+					"632": {
+						"id": "632",
+						"english_name": "tatopani",
+						"nepali_name": "तातोपानी"
+					},
+					"633": {
+						"id": "633",
+						"english_name": "patarashi",
+						"nepali_name": "पातारासी"
+					}
+				}
+			}
+		}
+	},
+	"7": {
+		"67": {
+			"id": "67",
+			"name": "बाजुरा / Bajura",
+			"nepali_name": "बाजुरा",
+			"english_name": "bajura",
+			"locations": {
+				"67": {
+					"634": {
+						"id": "634",
+						"english_name": "tribeni",
+						"nepali_name": "त्रिवेणी"
+					},
+					"635": {
+						"id": "635",
+						"english_name": "badimalika",
+						"nepali_name": "बडीमालिका"
+					},
+					"636": {
+						"id": "636",
+						"english_name": "budhiganga",
+						"nepali_name": "बुढीगंगा"
+					},
+					"637": {
+						"id": "637",
+						"english_name": "budhinanda",
+						"nepali_name": "बुढीनन्दा"
+					},
+					"638": {
+						"id": "638",
+						"english_name": "gaumul",
+						"nepali_name": "गौमुल"
+					},
+					"639": {
+						"id": "639",
+						"english_name": "pandavgupha",
+						"nepali_name": "पाण्डवगुफा"
+					},
+					"640": {
+						"id": "640",
+						"english_name": "swamikartik",
+						"nepali_name": "स्वामीकार्तिक"
+					},
+					"641": {
+						"id": "641",
+						"english_name": "himali",
+						"nepali_name": "हिमाली"
+					},
+					"642": {
+						"id": "642",
+						"english_name": "chededaha",
+						"nepali_name": "छेडेदह"
+					}
+				}
+			}
+		},
+		"68": {
+			"id": "68",
+			"name": "बझाङ / Bajhang",
+			"nepali_name": "बझाङ",
+			"english_name": "bajhang",
+			"locations": {
+				"68": {
+					"643": {
+						"id": "643",
+						"english_name": "jayprithivi",
+						"nepali_name": "जयपृथ्वी"
+					},
+					"644": {
+						"id": "644",
+						"english_name": "bungal",
+						"nepali_name": "बुंगल"
+					},
+					"645": {
+						"id": "645",
+						"english_name": "talkot",
+						"nepali_name": "तलकोट"
+					},
+					"646": {
+						"id": "646",
+						"english_name": "khaptadchatra",
+						"nepali_name": "खप्तडछान्ना"
+					},
+					"647": {
+						"id": "647",
+						"english_name": "thalara",
+						"nepali_name": "थलारा"
+					},
+					"648": {
+						"id": "648",
+						"english_name": "withdachir",
+						"nepali_name": "वित्थडचिर"
+					},
+					"649": {
+						"id": "649",
+						"english_name": "surma",
+						"nepali_name": "सूर्मा"
+					},
+					"650": {
+						"id": "650",
+						"english_name": "chabbis pathibhara",
+						"nepali_name": "छबिसपाथिभेरा"
+					},
+					"651": {
+						"id": "651",
+						"english_name": "durgathali",
+						"nepali_name": "दुर्गाथली"
+					},
+					"652": {
+						"id": "652",
+						"english_name": "masta",
+						"nepali_name": "मष्टा"
+					},
+					"653": {
+						"id": "653",
+						"english_name": "kedarshyu",
+						"nepali_name": "केदारस्युँ"
+					},
+					"729": {
+						"id": "729",
+						"english_name": "kanda",
+						"nepali_name": "काँडा"
+					}
+				}
+			}
+		},
+		"69": {
+			"id": "69",
+			"name": "अछाम / Achham",
+			"nepali_name": "अछाम",
+			"english_name": "achham",
+			"locations": {
+				"69": {
+					"654": {
+						"id": "654",
+						"english_name": "sanfebagar",
+						"nepali_name": "साफेबगर"
+					},
+					"655": {
+						"id": "655",
+						"english_name": "panchdewal binayak",
+						"nepali_name": "पञ्चदेवल विनायक"
+					},
+					"656": {
+						"id": "656",
+						"english_name": "mangalsen",
+						"nepali_name": "मंगलसेन"
+					},
+					"657": {
+						"id": "657",
+						"english_name": "kamalbazaar",
+						"nepali_name": "कमलबजार"
+					},
+					"658": {
+						"id": "658",
+						"english_name": "bannigadhi jayagadh",
+						"nepali_name": "बान्नीगढी जयगढ"
+					},
+					"659": {
+						"id": "659",
+						"english_name": "chaurpati",
+						"nepali_name": "चौरपाटी"
+					},
+					"660": {
+						"id": "660",
+						"english_name": "mellekh",
+						"nepali_name": "मेल्लेख"
+					},
+					"661": {
+						"id": "661",
+						"english_name": "ramaroshan",
+						"nepali_name": "रामारोशन"
+					},
+					"662": {
+						"id": "662",
+						"english_name": "dakari",
+						"nepali_name": "ढकारी"
+					},
+					"663": {
+						"id": "663",
+						"english_name": "turmakhad",
+						"nepali_name": "तुर्माखाँद"
+					}
+				}
+			}
+		},
+		"70": {
+			"id": "70",
+			"name": "डोटी / Doti",
+			"nepali_name": "डोटी",
+			"english_name": "doti",
+			"locations": {
+				"70": {
+					"664": {
+						"id": "664",
+						"english_name": "dipayal silgadi",
+						"nepali_name": "दिपायल सिलगढी"
+					},
+					"665": {
+						"id": "665",
+						"english_name": "shikhar",
+						"nepali_name": "शिखर"
+					},
+					"666": {
+						"id": "666",
+						"english_name": "purbichauki",
+						"nepali_name": "पूर्वीचौकी"
+					},
+					"667": {
+						"id": "667",
+						"english_name": "badikedar",
+						"nepali_name": "बडीकेदार"
+					},
+					"668": {
+						"id": "668",
+						"english_name": "jorayal",
+						"nepali_name": "जोरायल"
+					},
+					"669": {
+						"id": "669",
+						"english_name": "sayal",
+						"nepali_name": "सायल"
+					},
+					"670": {
+						"id": "670",
+						"english_name": "aadarsha",
+						"nepali_name": "आदर्श"
+					},
+					"671": {
+						"id": "671",
+						"english_name": "kic",
+						"nepali_name": "के.आई.सिं."
+					},
+					"672": {
+						"id": "672",
+						"english_name": "bogtan",
+						"nepali_name": "बोगटान"
+					}
+				}
+			}
+		},
+		"71": {
+			"id": "71",
+			"name": "कैलाली / Kailali",
+			"nepali_name": "कैलाली",
+			"english_name": "kailali",
+			"locations": {
+				"71": {
+					"673": {
+						"id": "673",
+						"english_name": "dhangadhi",
+						"nepali_name": "धनगढी"
+					},
+					"674": {
+						"id": "674",
+						"english_name": "tikapur",
+						"nepali_name": "टिकापुर"
+					},
+					"675": {
+						"id": "675",
+						"english_name": "lamki chuha",
+						"nepali_name": "लम्की चुहा"
+					},
+					"676": {
+						"id": "676",
+						"english_name": "gauriganga",
+						"nepali_name": "गौरीगंगा"
+					},
+					"677": {
+						"id": "677",
+						"english_name": "ghodaghodi",
+						"nepali_name": "घोडाघोडी"
+					},
+					"678": {
+						"id": "678",
+						"english_name": "bhajani",
+						"nepali_name": "भजनी"
+					},
+					"679": {
+						"id": "679",
+						"english_name": "godawari",
+						"nepali_name": "गोदावरी"
+					},
+					"680": {
+						"id": "680",
+						"english_name": "janaki",
+						"nepali_name": "जानकी"
+					},
+					"681": {
+						"id": "681",
+						"english_name": "bardagoriya",
+						"nepali_name": "बर्दगोरीया"
+					},
+					"682": {
+						"id": "682",
+						"english_name": "mohanyal",
+						"nepali_name": "मोहन्याल"
+					},
+					"683": {
+						"id": "683",
+						"english_name": "kailari",
+						"nepali_name": "कैलारी"
+					},
+					"684": {
+						"id": "684",
+						"english_name": "joshipur",
+						"nepali_name": "जोशीपुर"
+					},
+					"685": {
+						"id": "685",
+						"english_name": "chure",
+						"nepali_name": "चुरे"
+					}
+				}
+			}
+		},
+		"72": {
+			"id": "72",
+			"name": "कंचनपुर / Kanchanpur",
+			"nepali_name": "कंचनपुर",
+			"english_name": "kanchanpur",
+			"locations": {
+				"72": {
+					"686": {
+						"id": "686",
+						"english_name": "punarbaas",
+						"nepali_name": "पुनर्वास"
+					},
+					"687": {
+						"id": "687",
+						"english_name": "bhimdutta",
+						"nepali_name": "भीमदत्त"
+					},
+					"688": {
+						"id": "688",
+						"english_name": "bedkot",
+						"nepali_name": "वेदकोट"
+					},
+					"689": {
+						"id": "689",
+						"english_name": "mahakali",
+						"nepali_name": "माहाकाली"
+					},
+					"690": {
+						"id": "690",
+						"english_name": "suklaphanta",
+						"nepali_name": "सुक्लाफाँटा"
+					},
+					"691": {
+						"id": "691",
+						"english_name": "belauri",
+						"nepali_name": "बेलौरी"
+					},
+					"692": {
+						"id": "692",
+						"english_name": "krishnapur",
+						"nepali_name": "कृष्णपुर"
+					},
+					"693": {
+						"id": "693",
+						"english_name": "beldadi",
+						"nepali_name": "बेलडाडी"
+					},
+					"694": {
+						"id": "694",
+						"english_name": "laljhadi",
+						"nepali_name": "लालझाँडी"
+					}
+				}
+			}
+		},
+		"73": {
+			"id": "73",
+			"name": "डडेलधुरा / Dadeldhura",
+			"nepali_name": "डडेलधुरा",
+			"english_name": "dadeldhura",
+			"locations": {
+				"73": {
+					"695": {
+						"id": "695",
+						"english_name": "amargadi",
+						"nepali_name": "अमरगढी"
+					},
+					"696": {
+						"id": "696",
+						"english_name": "parshuram",
+						"nepali_name": "परशुराम"
+					},
+					"697": {
+						"id": "697",
+						"english_name": "aalital",
+						"nepali_name": "आलिताल"
+					},
+					"698": {
+						"id": "698",
+						"english_name": "bhageshwor",
+						"nepali_name": "भागेश्वर"
+					},
+					"699": {
+						"id": "699",
+						"english_name": "nabadurga",
+						"nepali_name": "नवदुर्गा"
+					},
+					"700": {
+						"id": "700",
+						"english_name": "ajaymeru",
+						"nepali_name": "अजयमेरु"
+					},
+					"701": {
+						"id": "701",
+						"english_name": "ganyapdhura",
+						"nepali_name": "गन्यापधुरा"
+					}
+				}
+			}
+		},
+		"74": {
+			"id": "74",
+			"name": "बैतडी / Baitadi",
+			"nepali_name": "बैतडी",
+			"english_name": "baitadi",
+			"locations": {
+				"74": {
+					"702": {
+						"id": "702",
+						"english_name": "melauli",
+						"nepali_name": "मेलौली"
+					},
+					"703": {
+						"id": "703",
+						"english_name": "purchadi",
+						"nepali_name": "पुर्चौडी"
+					},
+					"704": {
+						"id": "704",
+						"english_name": "patan",
+						"nepali_name": "पाटन"
+					},
+					"705": {
+						"id": "705",
+						"english_name": "dasarathchand",
+						"nepali_name": "दशरथचन्द"
+					},
+					"706": {
+						"id": "706",
+						"english_name": "sunarya",
+						"nepali_name": "सुर्नया"
+					},
+					"707": {
+						"id": "707",
+						"english_name": "sigash",
+						"nepali_name": "सिगास"
+					},
+					"708": {
+						"id": "708",
+						"english_name": "shivanath",
+						"nepali_name": "शिवनाथ"
+					},
+					"709": {
+						"id": "709",
+						"english_name": "dogadakedar",
+						"nepali_name": "दोगडाकेदार"
+					},
+					"710": {
+						"id": "710",
+						"english_name": "pancheswar",
+						"nepali_name": "पन्चेश्वर"
+					},
+					"711": {
+						"id": "711",
+						"english_name": "dellasaine",
+						"nepali_name": "डीलासैनी"
+					}
+				}
+			}
+		},
+		"75": {
+			"id": "75",
+			"name": "दार्चुला / Darchula",
+			"nepali_name": "दार्चुला",
+			"english_name": "darchula",
+			"locations": {
+				"75": {
+					"712": {
+						"id": "712",
+						"english_name": "maalikarjun",
+						"nepali_name": "मालिकार्जुन"
+					},
+					"713": {
+						"id": "713",
+						"english_name": "shailyasikhar",
+						"nepali_name": "शैल्यशिखर"
+					},
+					"714": {
+						"id": "714",
+						"english_name": "mahakali",
+						"nepali_name": "महाकाली"
+					},
+					"715": {
+						"id": "715",
+						"english_name": "apihimal",
+						"nepali_name": "अपिहिमाल"
+					},
+					"716": {
+						"id": "716",
+						"english_name": "dunhu",
+						"nepali_name": "दुहुँ"
+					},
+					"717": {
+						"id": "717",
+						"english_name": "naugad",
+						"nepali_name": "नौगाड"
+					},
+					"718": {
+						"id": "718",
+						"english_name": "marma",
+						"nepali_name": "मार्मा"
+					},
+					"719": {
+						"id": "719",
+						"english_name": "lekam",
+						"nepali_name": "लेकम"
+					},
+					"720": {
+						"id": "720",
+						"english_name": "byas",
+						"nepali_name": "ब्यास"
+					}
+				}
+			}
+		}
+	}
+}
