@@ -761,6 +761,581 @@
 		]
 	},
 	{
+		"province"	: "2",
+		"districts" : [
+			{
+				"name" :  "saptari",
+				"Municipalities": [
+					{
+						"id": "139",
+						"english_name": "patho",
+						"nepali_name": "पातो"
+					},
+					{
+						"id": "140",
+						"english_name": "barshaen",
+						"nepali_name": "बरसाइन"
+					},
+					{
+						"id": "141",
+						"english_name": "rajbiraj",
+						"nepali_name": "राजविराज"
+					},
+					{
+						"id": "142",
+						"english_name": "sumbhunath",
+						"nepali_name": "शम्भुनाथ"
+					},
+					{
+						"id": "143",
+						"english_name": "saptakoshi kanchanrup",
+						"nepali_name": "सप्तकोशी कञ्चनरुप"
+					},
+					{
+						"id": "144",
+						"english_name": "hanumannagar yogini mai",
+						"nepali_name": "हनुमाननगर योगिनि माई"
+					},
+					{
+						"id": "145",
+						"english_name": "khadhak",
+						"nepali_name": "खडक"
+					},
+					{
+						"id": "146",
+						"english_name": "chinnamastha",
+						"nepali_name": "छिन्नमस्ता"
+					},
+					{
+						"id": "147",
+						"english_name": "thopa",
+						"nepali_name": "तोपा"
+					},
+					{
+						"id": "148",
+						"english_name": "mohali",
+						"nepali_name": "मोहली"
+					},
+					{
+						"id": "149",
+						"english_name": "belhi chapena",
+						"nepali_name": "बेल्ही चपेना"
+					},
+					{
+						"id": "150",
+						"english_name": "sumanga",
+						"nepali_name": "सुमङ्ग"
+					}
+				]
+			},
+			{
+				"name": "siraha",
+				"Municipalities": [
+					{
+						"id": "151",
+						"english_name": "mirchya",
+						"nepali_name": "मिर्चैया"
+					},
+					{
+						"id": "152",
+						"english_name": "lahan",
+						"nepali_name": "लहान"
+					},
+					{
+						"id": "153",
+						"english_name": "siraha",
+						"nepali_name": "सिराहा"
+					},
+					{
+						"id": "154",
+						"english_name": "sukhipur",
+						"nepali_name": "सुखीपुर"
+					},
+					{
+						"id": "155",
+						"english_name": "gholbazar",
+						"nepali_name": "गोलबजार"
+					},
+					{
+						"id": "156",
+						"english_name": "dhangadimai",
+						"nepali_name": "धनगढीमाई"
+					},
+					{
+						"id": "157",
+						"english_name": "bhagwanpur",
+						"nepali_name": "भगवानपुर"
+					},
+					{
+						"id": "158",
+						"english_name": "maheshpur pathari",
+						"nepali_name": "महेशपुर पतारी"
+					},
+					{
+						"id": "159",
+						"english_name": "bhishnupur p.m",
+						"nepali_name": "विष्णुपुर प्र.म."
+					},
+					{
+						"id": "160",
+						"english_name": "aaurahi",
+						"nepali_name": "औरही"
+					},
+					{
+						"id": "161",
+						"english_name": "karjanha",
+						"nepali_name": "कर्जन्हा"
+					},
+					{
+						"id": "162",
+						"english_name": "kalyanpur jabdi",
+						"nepali_name": "कल्याणपुर जब्दी"
+					}
+				]
+			},
+			{
+				"name": "dhanusa",
+				"Municipalities": [
+					{
+						"id": "163",
+						"english_name": "janakpur",
+						"nepali_name": "जनकपुर"
+					},
+					{
+						"id": "164",
+						"english_name": "shrireshswarnath",
+						"nepali_name": "क्षिरेश्वरनाथ"
+					},
+					{
+						"id": "165",
+						"english_name": "ganeshman charnath",
+						"nepali_name": "गणेशमान चारनाथ"
+					},
+					{
+						"id": "166",
+						"english_name": "dhanusadham",
+						"nepali_name": "धनुषाधाम"
+					},
+					{
+						"id": "167",
+						"english_name": "nagrain",
+						"nepali_name": "नगराइन"
+					},
+					{
+						"id": "168",
+						"english_name": "mithila",
+						"nepali_name": "मिथिला"
+					},
+					{
+						"id": "169",
+						"english_name": "yogibaba",
+						"nepali_name": "योगीबाबा"
+					},
+					{
+						"id": "170",
+						"english_name": "sahidnagar",
+						"nepali_name": "शहीदनगर"
+					},
+					{
+						"id": "171",
+						"english_name": "saptakrishi",
+						"nepali_name": "सप्तऋषि"
+					},
+					{
+						"id": "172",
+						"english_name": "kamla sidhidhakshri",
+						"nepali_name": "कमला सिद्दीदात्री"
+					},
+					{
+						"id": "173",
+						"english_name": "mithila bihari",
+						"nepali_name": "मिथिला  बिहारी"
+					},
+					{
+						"id": "174",
+						"english_name": "hangsapur",
+						"nepali_name": "हंसपुर"
+					},
+					{
+						"id": "175",
+						"english_name": "jamuni",
+						"nepali_name": "जमुनी"
+					}
+				]
+			},
+			{
+				"name": "mahottari",
+				"Municipalities": [
+					{
+						"id": "176",
+						"english_name": "gaushala",
+						"nepali_name": "गौशाला"
+					},
+					{
+						"id": "177",
+						"english_name": "jaleshwor",
+						"nepali_name": "जलेश्वर"
+					},
+					{
+						"id": "178",
+						"english_name": "badhibash",
+						"nepali_name": "बर्दिबास"
+					},
+					{
+						"id": "179",
+						"english_name": "ekdara",
+						"nepali_name": "एकडारा"
+					},
+					{
+						"id": "180",
+						"english_name": "aaurahi",
+						"nepali_name": "औरही"
+					},
+					{
+						"id": "181",
+						"english_name": "pipra",
+						"nepali_name": "पिपरा"
+					},
+					{
+						"id": "182",
+						"english_name": "balwa",
+						"nepali_name": "बलवा"
+					},
+					{
+						"id": "183",
+						"english_name": "bhangaha",
+						"nepali_name": "भँगाहा"
+					},
+					{
+						"id": "184",
+						"english_name": "mathihani",
+						"nepali_name": "मटिहानी"
+					},
+					{
+						"id": "185",
+						"english_name": "manra",
+						"nepali_name": "मनरा"
+					},
+					{
+						"id": "186",
+						"english_name": "ramgopalpur",
+						"nepali_name": "रामगोपालपुर"
+					},
+					{
+						"id": "187",
+						"english_name": "loharpatti",
+						"nepali_name": "लोहरपट्टी"
+					},
+					{
+						"id": "188",
+						"english_name": "samshi",
+						"nepali_name": "सम्सी"
+					},
+					{
+						"id": "189",
+						"english_name": "sonma",
+						"nepali_name": "सोनमा"
+					}
+				]
+			},
+			{
+				"name": "sarlahi",
+				"Municipalities": [
+					{
+						"id": "190",
+						"english_name": "brahatwa",
+						"nepali_name": "बरहथवा"
+					},
+					{
+						"id": "191",
+						"english_name": "balra",
+						"nepali_name": "बलरा"
+					},
+					{
+						"id": "192",
+						"english_name": "malangwa",
+						"nepali_name": "मलंगवा"
+					},
+					{
+						"id": "193",
+						"english_name": "lalbandhi",
+						"nepali_name": "लालबन्दी"
+					},
+					{
+						"id": "194",
+						"english_name": "shrinagar sagarnath",
+						"nepali_name": "श्रीनगर सागरनाथ"
+					},
+					{
+						"id": "195",
+						"english_name": "haripur",
+						"nepali_name": "हरिपुर"
+					},
+					{
+						"id": "196",
+						"english_name": "haripurwa",
+						"nepali_name": "हरिपुर्वा"
+					},
+					{
+						"id": "197",
+						"english_name": "hariwan",
+						"nepali_name": "हरिवन"
+					},
+					{
+						"id": "198",
+						"english_name": "karmaya",
+						"nepali_name": "कर्मैया"
+					},
+					{
+						"id": "199",
+						"english_name": "kawilashi",
+						"nepali_name": "कविलासी"
+					},
+					{
+						"id": "200",
+						"english_name": "godaita",
+						"nepali_name": "गोडैता"
+					},
+					{
+						"id": "201",
+						"english_name": "chandranagar",
+						"nepali_name": "चन्द्रनगर"
+					},
+					{
+						"id": "202",
+						"english_name": "dhankail parisham",
+						"nepali_name": "धनकौल पश्चिम"
+					},
+					{
+						"id": "203",
+						"english_name": "belhi",
+						"nepali_name": "बेल्ही"
+					},
+					{
+						"id": "204",
+						"english_name": "ramnagar bahuarwa",
+						"nepali_name": "रामनगर बहुअर्वा"
+					},
+					{
+						"id": "205",
+						"english_name": "bishnu",
+						"nepali_name": "विष्णु"
+					}
+				]
+			},
+			{
+				"name": "rauthat",
+				"Municipalities": [
+					{
+						"id": "316",
+						"english_name": "garuda",
+						"nepali_name": "गरुडा"
+					},
+					{
+						"id": "317",
+						"english_name": "gaur",
+						"nepali_name": "गौर"
+					},
+					{
+						"id": "318",
+						"english_name": "chandrapur",
+						"nepali_name": "चन्द्रपुर"
+					},
+					{
+						"id": "319",
+						"english_name": "isanatha",
+						"nepali_name": "ईशनाथ"
+					},
+					{
+						"id": "320",
+						"english_name": "kaṭahariya",
+						"nepali_name": "कटहरिया"
+					},
+					{
+						"id": "321",
+						"english_name": "gajara",
+						"nepali_name": "गजरा"
+					},
+					{
+						"id": "322",
+						"english_name": "gadimai",
+						"nepali_name": "गढीमाई"
+					},
+					{
+						"id": "323",
+						"english_name": "paroha",
+						"nepali_name": "परोहा"
+					},
+					{
+						"id": "324",
+						"english_name": "bijayapur",
+						"nepali_name": "बिजयपुर"
+					},
+					{
+						"id": "325",
+						"english_name": "baidimai",
+						"nepali_name": "बैधीमार्इ"
+					},
+					{
+						"id": "326",
+						"english_name": "bhagwati",
+						"nepali_name": "भगवती"
+					},
+					{
+						"id": "327",
+						"english_name": "vinak",
+						"nepali_name": "भीनक"
+					},
+					{
+						"id": "328",
+						"english_name": "maulapur",
+						"nepali_name": "मौलापुर"
+					},
+					{
+						"id": "329",
+						"english_name": "rajpur",
+						"nepali_name": "राजपुर"
+					},
+					{
+						"id": "330",
+						"english_name": "br̥ndavana",
+						"nepali_name": "बृन्दावन"
+					}
+				]
+			},
+			{
+				"name": "bara",
+				"Municipalities": [
+					{
+						"id": "331",
+						"english_name": "simra jitpur",
+						"nepali_name": "सिमरा जीतपुर"
+					},
+					{
+						"id": "332",
+						"english_name": "kalaya",
+						"nepali_name": "कलैया"
+					},
+					{
+						"id": "333",
+						"english_name": "kolhawi",
+						"nepali_name": "कोल्हवी"
+					},
+					{
+						"id": "334",
+						"english_name": "nijgadh",
+						"nepali_name": "निजगढ"
+					},
+					{
+						"id": "335",
+						"english_name": "mahagadhimai",
+						"nepali_name": "महागढीमाई"
+					},
+					{
+						"id": "336",
+						"english_name": "simraunagaḍha",
+						"nepali_name": "सिम्रौनगढ"
+					},
+					{
+						"id": "337",
+						"english_name": "kotwal",
+						"nepali_name": "कोटवाल"
+					},
+					{
+						"id": "338",
+						"english_name": "devtal",
+						"nepali_name": "देवताल"
+					},
+					{
+						"id": "339",
+						"english_name": "parwanipur",
+						"nepali_name": "परवानीपुर"
+					},
+					{
+						"id": "340",
+						"english_name": "prasauni",
+						"nepali_name": "प्रसौनी"
+					},
+					{
+						"id": "341",
+						"english_name": "pheta",
+						"nepali_name": "फेटा"
+					},
+					{
+						"id": "342",
+						"english_name": "baragadhi",
+						"nepali_name": "बारागढी"
+					},
+					{
+						"id": "343",
+						"english_name": "pacarauṭa satamauja",
+						"nepali_name": "पचरौटा सतमौजा"
+					}
+				]
+			},
+			{
+				"name": "parsa",
+				"Municipalities": [
+					{
+						"id": "344",
+						"english_name": "birgunj",
+						"nepali_name": "बिरगंज"
+					},
+					{
+						"id": "345",
+						"english_name": "pokhariya",
+						"nepali_name": "पोखरिया"
+					},
+					{
+						"id": "346",
+						"english_name": "jagnathpur",
+						"nepali_name": "जगनाथपुर"
+					},
+					{
+						"id": "347",
+						"english_name": "dhobini",
+						"nepali_name": "धोबीनी"
+					},
+					{
+						"id": "348",
+						"english_name": "pakaha mainapur",
+						"nepali_name": "पकाहा मैनपुर"
+					},
+					{
+						"id": "349",
+						"english_name": "paṭerva sugauli",
+						"nepali_name": "पटेर्वा सुगौली"
+					},
+					{
+						"id": "350",
+						"english_name": "belava prasaunī",
+						"nepali_name": "बेलवा प्रसौनी"
+					},
+					{
+						"id": "351",
+						"english_name": "visramapura",
+						"nepali_name": "विश्रामपुर"
+					},
+					{
+						"id": "352",
+						"english_name": "sakhuva prasauni",
+						"nepali_name": "सखुवा प्रसौनी"
+					},
+					{
+						"id": "353",
+						"english_name": "suvarṇapura",
+						"nepali_name": "सुवर्णपुर"
+					},
+					{
+						"id": "354",
+						"english_name": "harpur",
+						"nepali_name": "हरपुर"
+					}
+				]
+			}
+		]
+	},
+	{
 		"province"	: "5",
 		"districts" : [
 			{
